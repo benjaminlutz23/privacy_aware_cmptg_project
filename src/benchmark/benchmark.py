@@ -9,6 +9,7 @@ json_file_path = '../data/benchmark/key.json'
 # Initialize a dictionary to hold the JSON structure
 data = defaultdict(list)
 
+
 # Read the CSV file
 with open(csv_file_path, mode='r', encoding='utf-8') as csv_file:
     csv_reader = csv.reader(csv_file)

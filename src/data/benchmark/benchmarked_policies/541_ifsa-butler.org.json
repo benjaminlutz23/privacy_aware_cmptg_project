@@ -1,0 +1,3663 @@
+{
+    "0": [
+        {
+            "id": "C171",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 315,
+                    "startIndexInSegment": 9,
+                    "selectedText": "Privacy Policy IFSA-Butler is committed to respecting your privacy and protecting the information we receive from you. This policy is intended to outline the information we collect from users who visit and submit applications to our website and how we use and disclose that information.",
+                    "value": "Introductory/Generic"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "4435",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3697",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 315,
+                    "startIndexInSegment": 44,
+                    "selectedText": "IFSA-Butler is committed to respecting your privacy and protecting the information we receive from you. This policy is intended to outline the information we collect from users who visit and submit applications to our website and how we use and disclose that information.",
+                    "value": "Introductory/Generic"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "13992",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": 269,
+                    "startIndexInSegment": 199,
+                    "selectedText": "we collect from users who visit and submit applications to our website",
+                    "value": "Unspecified"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 269,
+                    "startIndexInSegment": 199,
+                    "selectedText": "we collect from users who visit and submit applications to our website",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 198,
+                    "startIndexInSegment": 187,
+                    "selectedText": "information",
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 220,
+                    "startIndexInSegment": 187,
+                    "selectedText": "information we collect from users",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 315,
+                    "startIndexInSegment": 274,
+                    "selectedText": "how we use and disclose that information.",
+                    "value": "Unspecified"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        }
+    ],
+    "1": [
+        {
+            "id": "4436",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3697",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": 245,
+                    "startIndexInSegment": 181,
+                    "selectedText": "automatically collected anytime you visit an IFSA-Butler webpage",
+                    "value": "Implicit"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 204,
+                    "startIndexInSegment": 181,
+                    "selectedText": "automatically collected",
+                    "value": "Collection"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 245,
+                    "startIndexInSegment": 181,
+                    "selectedText": "automatically collected anytime you visit an IFSA-Butler webpage",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 265,
+                    "startIndexInSegment": 255,
+                    "selectedText": "IP address",
+                    "value": "IP address and device IDs"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": 245,
+                    "startIndexInSegment": 181,
+                    "selectedText": "automatically collected anytime you visit an IFSA-Butler webpage",
+                    "value": "Dont use service/feature"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 172,
+                    "startIndexInSegment": 133,
+                    "selectedText": "non-personally identifiable information",
+                    "value": "Other"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 31,
+                    "startIndexInSegment": 9,
+                    "selectedText": "Information We Collect",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "4437",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3697",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": 245,
+                    "startIndexInSegment": 181,
+                    "selectedText": "automatically collected anytime you visit an IFSA-Butler webpage",
+                    "value": "Implicit"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 204,
+                    "startIndexInSegment": 181,
+                    "selectedText": "automatically collected",
+                    "value": "Collection"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 245,
+                    "startIndexInSegment": 181,
+                    "selectedText": "automatically collected anytime you visit an IFSA-Butler webpage",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 279,
+                    "startIndexInSegment": 267,
+                    "selectedText": "browser type",
+                    "value": "Computer information"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": 245,
+                    "startIndexInSegment": 181,
+                    "selectedText": "automatically collected anytime you visit an IFSA-Butler webpage",
+                    "value": "Dont use service/feature"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 172,
+                    "startIndexInSegment": 133,
+                    "selectedText": "non-personally identifiable information",
+                    "value": "Other"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 31,
+                    "startIndexInSegment": 9,
+                    "selectedText": "Information We Collect",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "4438",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3697",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": 245,
+                    "startIndexInSegment": 181,
+                    "selectedText": "automatically collected anytime you visit an IFSA-Butler webpage",
+                    "value": "Implicit"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 204,
+                    "startIndexInSegment": 181,
+                    "selectedText": "automatically collected",
+                    "value": "Collection"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 245,
+                    "startIndexInSegment": 181,
+                    "selectedText": "automatically collected anytime you visit an IFSA-Butler webpage",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 303,
+                    "startIndexInSegment": 285,
+                    "selectedText": "referring websites",
+                    "value": "Other"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": 245,
+                    "startIndexInSegment": 181,
+                    "selectedText": "automatically collected anytime you visit an IFSA-Butler webpage",
+                    "value": "Dont use service/feature"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 172,
+                    "startIndexInSegment": 133,
+                    "selectedText": "non-personally identifiable information",
+                    "value": "Other"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 31,
+                    "startIndexInSegment": 9,
+                    "selectedText": "Information We Collect",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "4439",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3697",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": 468,
+                    "startIndexInSegment": 339,
+                    "selectedText": "voluntarily supplied by visitors through the submission of inquiry forms or applications for programs offered through IFSA-Butler",
+                    "value": "Explicit"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 469,
+                    "startIndexInSegment": 339,
+                    "selectedText": "voluntarily supplied by visitors through the submission of inquiry forms or applications for programs offered through IFSA-Butler.",
+                    "value": "Collection"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": 469,
+                    "startIndexInSegment": 339,
+                    "selectedText": "voluntarily supplied by visitors through the submission of inquiry forms or applications for programs offered through IFSA-Butler.",
+                    "value": "Opt-in"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 330,
+                    "startIndexInSegment": 319,
+                    "selectedText": "information",
+                    "value": "Unspecified"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 31,
+                    "startIndexInSegment": 9,
+                    "selectedText": "Information We Collect",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "7478",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3697",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 127,
+                    "startIndexInSegment": 9,
+                    "selectedText": "Information We Collect <br> </strong> IFSA-Butler collects two types of information from visitors to this website:<ol>",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 265,
+                    "startIndexInSegment": 133,
+                    "selectedText": "non-personally identifiable information that is automatically collected anytime you visit an IFSA-Butler webpage, such as IP address",
+                    "value": "IP address and device IDs"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 172,
+                    "startIndexInSegment": 133,
+                    "selectedText": "non-personally identifiable information",
+                    "value": "Aggregated or anonymized"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 123,
+                    "startIndexInSegment": 47,
+                    "selectedText": "IFSA-Butler collects two types of information from visitors to this website:",
+                    "value": "Unspecified"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "7479",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3697",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 246,
+                    "startIndexInSegment": 0,
+                    "selectedText": "<strong> Information We Collect <br> </strong> IFSA-Butler collects two types of information from visitors to this website:<ol> <li> non-personally identifiable information that is automatically collected anytime you visit an IFSA-Butler webpage,",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 307,
+                    "startIndexInSegment": 267,
+                    "selectedText": "browser type, and referring websites and",
+                    "value": "Computer information"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 172,
+                    "startIndexInSegment": 133,
+                    "selectedText": "non-personally identifiable information",
+                    "value": "Aggregated or anonymized"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 123,
+                    "startIndexInSegment": 47,
+                    "selectedText": "IFSA-Butler collects two types of information from visitors to this website:",
+                    "value": "Unspecified"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "7480",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3697",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": 371,
+                    "startIndexInSegment": 320,
+                    "selectedText": "nformation that is voluntarily supplied by visitors",
+                    "value": "Explicit"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 127,
+                    "startIndexInSegment": 9,
+                    "selectedText": "Information We Collect <br> </strong> IFSA-Butler collects two types of information from visitors to this website:<ol>",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 469,
+                    "startIndexInSegment": 319,
+                    "selectedText": "information that is voluntarily supplied by visitors through the submission of inquiry forms or applications for programs offered through IFSA-Butler.",
+                    "value": "Other"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 123,
+                    "startIndexInSegment": 47,
+                    "selectedText": "IFSA-Butler collects two types of information from visitors to this website:",
+                    "value": "Unspecified"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "13993",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": 204,
+                    "startIndexInSegment": 161,
+                    "selectedText": "information that is automatically collected",
+                    "value": "Implicit"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 123,
+                    "startIndexInSegment": 93,
+                    "selectedText": "from visitors to this website:",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 265,
+                    "startIndexInSegment": 255,
+                    "selectedText": "IP address",
+                    "value": "IP address and device IDs"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 160,
+                    "startIndexInSegment": 133,
+                    "selectedText": "non-personally identifiable",
+                    "value": "Aggregated or anonymized"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 67,
+                    "startIndexInSegment": 47,
+                    "selectedText": "IFSA-Butler collects",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "13994",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": 204,
+                    "startIndexInSegment": 161,
+                    "selectedText": "information that is automatically collected",
+                    "value": "Implicit"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 123,
+                    "startIndexInSegment": 93,
+                    "selectedText": "from visitors to this website:",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 279,
+                    "startIndexInSegment": 267,
+                    "selectedText": "browser type",
+                    "value": "Computer information"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 160,
+                    "startIndexInSegment": 133,
+                    "selectedText": "non-personally identifiable",
+                    "value": "Aggregated or anonymized"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 67,
+                    "startIndexInSegment": 47,
+                    "selectedText": "IFSA-Butler collects",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "13995",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": 204,
+                    "startIndexInSegment": 161,
+                    "selectedText": "information that is automatically collected",
+                    "value": "Implicit"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 123,
+                    "startIndexInSegment": 93,
+                    "selectedText": "from visitors to this website:",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 303,
+                    "startIndexInSegment": 285,
+                    "selectedText": "referring websites",
+                    "value": "User online activities"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 160,
+                    "startIndexInSegment": 133,
+                    "selectedText": "non-personally identifiable",
+                    "value": "Aggregated or anonymized"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 67,
+                    "startIndexInSegment": 47,
+                    "selectedText": "IFSA-Butler collects",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "13996",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": 371,
+                    "startIndexInSegment": 319,
+                    "selectedText": "information that is voluntarily supplied by visitors",
+                    "value": "Explicit"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 123,
+                    "startIndexInSegment": 93,
+                    "selectedText": "from visitors to this website:",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 67,
+                    "startIndexInSegment": 47,
+                    "selectedText": "IFSA-Butler collects",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        }
+    ],
+    "2": [
+        {
+            "id": "4440",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3697",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 183,
+                    "startIndexInSegment": 176,
+                    "selectedText": "ebsite.",
+                    "value": "Unspecified"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 120,
+                    "startIndexInSegment": 81,
+                    "selectedText": "non-personally identifiable information",
+                    "value": "Other"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 39,
+                    "startIndexInSegment": 9,
+                    "selectedText": "How We Use Visitor Information",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 183,
+                    "startIndexInSegment": 141,
+                    "selectedText": "optimizing the performance of our website.",
+                    "value": "Analytics/Research"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "7481",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3697",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 80,
+                    "startIndexInSegment": 60,
+                    "selectedText": "IFSA-Butler collects",
+                    "value": "Unspecified"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 120,
+                    "startIndexInSegment": 81,
+                    "selectedText": "non-personally identifiable information",
+                    "value": "Other"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 120,
+                    "startIndexInSegment": 81,
+                    "selectedText": "non-personally identifiable information",
+                    "value": "Aggregated or anonymized"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 183,
+                    "startIndexInSegment": 130,
+                    "selectedText": "purpose of optimizing the performance of our website.",
+                    "value": "Analytics/Research"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "13997",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 120,
+                    "startIndexInSegment": 81,
+                    "selectedText": "non-personally identifiable information",
+                    "value": "User online activities"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 108,
+                    "startIndexInSegment": 81,
+                    "selectedText": "non-personally identifiable",
+                    "value": "Aggregated or anonymized"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 80,
+                    "startIndexInSegment": 60,
+                    "selectedText": "IFSA-Butler collects",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 183,
+                    "startIndexInSegment": 126,
+                    "selectedText": "the purpose of optimizing the performance of our website.",
+                    "value": "Analytics/Research"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "13998",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 120,
+                    "startIndexInSegment": 81,
+                    "selectedText": "non-personally identifiable information",
+                    "value": "IP address and device IDs"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 108,
+                    "startIndexInSegment": 81,
+                    "selectedText": "non-personally identifiable",
+                    "value": "Aggregated or anonymized"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 80,
+                    "startIndexInSegment": 60,
+                    "selectedText": "IFSA-Butler collects",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 183,
+                    "startIndexInSegment": 126,
+                    "selectedText": "the purpose of optimizing the performance of our website.",
+                    "value": "Analytics/Research"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "13999",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 120,
+                    "startIndexInSegment": 81,
+                    "selectedText": "non-personally identifiable information",
+                    "value": "Computer information"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 108,
+                    "startIndexInSegment": 81,
+                    "selectedText": "non-personally identifiable",
+                    "value": "Aggregated or anonymized"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 80,
+                    "startIndexInSegment": 60,
+                    "selectedText": "IFSA-Butler collects",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 183,
+                    "startIndexInSegment": 126,
+                    "selectedText": "the purpose of optimizing the performance of our website.",
+                    "value": "Analytics/Research"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        }
+    ],
+    "3": [
+        {
+            "id": "4441",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3697",
+            "category": "Third Party Sharing/Collection",
+            "details": {
+                "Third Party Entity": {
+                    "endIndexInSegment": 75,
+                    "startIndexInSegment": 62,
+                    "selectedText": "third-parties",
+                    "value": "Unnamed third party"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 104,
+                    "startIndexInSegment": 86,
+                    "selectedText": "marketing purposes",
+                    "value": "Marketing"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 58,
+                    "startIndexInSegment": 23,
+                    "selectedText": "personally identifiable information",
+                    "value": "Identifiable"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 22,
+                    "startIndexInSegment": 0,
+                    "selectedText": "We do not rent or sell",
+                    "value": "Does Not"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action Third Party": {
+                    "endIndexInSegment": 22,
+                    "startIndexInSegment": 10,
+                    "selectedText": "rent or sell",
+                    "value": "Other"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "4442",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3697",
+            "category": "Third Party Sharing/Collection",
+            "details": {
+                "Third Party Entity": {
+                    "endIndexInSegment": 281,
+                    "startIndexInSegment": 238,
+                    "selectedText": "overseas institutions and service providers",
+                    "value": "Unnamed third party"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 399,
+                    "startIndexInSegment": 342,
+                    "selectedText": "provide our students with the services we request of them",
+                    "value": "Basic service/feature"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 135,
+                    "startIndexInSegment": 119,
+                    "selectedText": "your information",
+                    "value": "Unspecified"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 118,
+                    "startIndexInSegment": 106,
+                    "selectedText": "We may share",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action Third Party": {
+                    "endIndexInSegment": 118,
+                    "startIndexInSegment": 106,
+                    "selectedText": "We may share",
+                    "value": "Receive/Shared with"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "4443",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3697",
+            "category": "Third Party Sharing/Collection",
+            "details": {
+                "Third Party Entity": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 567,
+                    "startIndexInSegment": 537,
+                    "selectedText": "promoting IFSA-Butler programs",
+                    "value": "Marketing"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 515,
+                    "startIndexInSegment": 490,
+                    "selectedText": "name and home institution",
+                    "value": "Contact"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 515,
+                    "startIndexInSegment": 490,
+                    "selectedText": "name and home institution",
+                    "value": "Identifiable"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 424,
+                    "startIndexInSegment": 412,
+                    "selectedText": "We may share",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action Third Party": {
+                    "endIndexInSegment": 424,
+                    "startIndexInSegment": 412,
+                    "selectedText": "We may share",
+                    "value": "Receive/Shared with"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "4444",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3697",
+            "category": "Third Party Sharing/Collection",
+            "details": {
+                "Third Party Entity": {
+                    "endIndexInSegment": 673,
+                    "startIndexInSegment": 633,
+                    "selectedText": "law enforcement and government officials",
+                    "value": "Named third party"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 749,
+                    "startIndexInSegment": 674,
+                    "selectedText": "in accordance with applicable laws, court orders and government regulations",
+                    "value": "Legal requirement"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 629,
+                    "startIndexInSegment": 613,
+                    "selectedText": "your information",
+                    "value": "Unspecified"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 629,
+                    "startIndexInSegment": 580,
+                    "selectedText": "We reserve the right to disclose your information",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action Third Party": {
+                    "endIndexInSegment": 629,
+                    "startIndexInSegment": 604,
+                    "selectedText": "disclose your information",
+                    "value": "Receive/Shared with"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "7482",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3697",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 22,
+                    "startIndexInSegment": 10,
+                    "selectedText": "rent or sell",
+                    "value": "Other"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 58,
+                    "startIndexInSegment": 23,
+                    "selectedText": "personally identifiable information",
+                    "value": "Generic personal information"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 58,
+                    "startIndexInSegment": 23,
+                    "selectedText": "personally identifiable information",
+                    "value": "Identifiable"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 9,
+                    "startIndexInSegment": 0,
+                    "selectedText": "We do not",
+                    "value": "Does Not"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 105,
+                    "startIndexInSegment": 10,
+                    "selectedText": "rent or sell personally identifiable information to third-parties for their marketing purposes.",
+                    "value": "Other"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "7483",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3697",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 193,
+                    "startIndexInSegment": 106,
+                    "selectedText": "We may share your information with select third parties in the following circumstances:",
+                    "value": "Other"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 135,
+                    "startIndexInSegment": 113,
+                    "selectedText": "share your information",
+                    "value": "Generic personal information"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 750,
+                    "startIndexInSegment": 106,
+                    "selectedText": "We may share your information with select third parties in the following circumstances: We share certain information with overseas institutions and service providers, including universities and host families, so that they may provide our students with the services we request of them. We may share certain information about you, including but not limited to your name and home institution, for the purposes of promoting IFSA-Butler programs. We reserve the right to disclose your information to law enforcement and government officials in accordance with applicable laws, court orders and government regulations.",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 193,
+                    "startIndexInSegment": 106,
+                    "selectedText": "We may share your information with select third parties in the following circumstances:",
+                    "value": "Unspecified"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "7484",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3697",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 193,
+                    "startIndexInSegment": 106,
+                    "selectedText": "We may share your information with select third parties in the following circumstances:",
+                    "value": "Other"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 516,
+                    "startIndexInSegment": 419,
+                    "selectedText": "share certain information about you, including but not limited to your name and home institution,",
+                    "value": "Generic personal information"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 568,
+                    "startIndexInSegment": 517,
+                    "selectedText": "for the purposes of promoting IFSA-Butler programs.",
+                    "value": "Analytics/Research"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "7485",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3697",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 193,
+                    "startIndexInSegment": 106,
+                    "selectedText": "We may share your information with select third parties in the following circumstances:",
+                    "value": "Unspecified"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 629,
+                    "startIndexInSegment": 580,
+                    "selectedText": "We reserve the right to disclose your information",
+                    "value": "Generic personal information"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 750,
+                    "startIndexInSegment": 630,
+                    "selectedText": "to law enforcement and government officials in accordance with applicable laws, court orders and government regulations.",
+                    "value": "Legal requirement"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "14000",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "Third Party Sharing/Collection",
+            "details": {
+                "Third Party Entity": {
+                    "endIndexInSegment": 75,
+                    "startIndexInSegment": 62,
+                    "selectedText": "third-parties",
+                    "value": "Unnamed third party"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 104,
+                    "startIndexInSegment": 86,
+                    "selectedText": "marketing purposes",
+                    "value": "Marketing"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 58,
+                    "startIndexInSegment": 23,
+                    "selectedText": "personally identifiable information",
+                    "value": "Personal identifier"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 58,
+                    "startIndexInSegment": 23,
+                    "selectedText": "personally identifiable information",
+                    "value": "Identifiable"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 9,
+                    "startIndexInSegment": 0,
+                    "selectedText": "We do not",
+                    "value": "Does Not"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action Third Party": {
+                    "endIndexInSegment": 22,
+                    "startIndexInSegment": 10,
+                    "selectedText": "rent or sell",
+                    "value": "Receive/Shared with"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "14002",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "Third Party Sharing/Collection",
+            "details": {
+                "Third Party Entity": {
+                    "endIndexInSegment": 281,
+                    "startIndexInSegment": 238,
+                    "selectedText": "overseas institutions and service providers",
+                    "value": "Named third party"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 399,
+                    "startIndexInSegment": 325,
+                    "selectedText": "so that they may provide our students with the services we request of them",
+                    "value": "Basic service/feature"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 232,
+                    "startIndexInSegment": 213,
+                    "selectedText": "certain information",
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 232,
+                    "startIndexInSegment": 213,
+                    "selectedText": "certain information",
+                    "value": "Unspecified"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 212,
+                    "startIndexInSegment": 204,
+                    "selectedText": "We share",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action Third Party": {
+                    "endIndexInSegment": 281,
+                    "startIndexInSegment": 204,
+                    "selectedText": "We share certain information with overseas institutions and service providers",
+                    "value": "Receive/Shared with"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "14003",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "Third Party Sharing/Collection",
+            "details": {
+                "Third Party Entity": {
+                    "endIndexInSegment": 161,
+                    "startIndexInSegment": 141,
+                    "selectedText": "select third parties",
+                    "value": "Unnamed third party"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 192,
+                    "startIndexInSegment": 162,
+                    "selectedText": "in the following circumstances",
+                    "value": "Unspecified"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 135,
+                    "startIndexInSegment": 119,
+                    "selectedText": "your information",
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 135,
+                    "startIndexInSegment": 119,
+                    "selectedText": "your information",
+                    "value": "Unspecified"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 112,
+                    "startIndexInSegment": 106,
+                    "selectedText": "We may",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action Third Party": {
+                    "endIndexInSegment": 135,
+                    "startIndexInSegment": 113,
+                    "selectedText": "share your information",
+                    "value": "Receive/Shared with"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "14004",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "Third Party Sharing/Collection",
+            "details": {
+                "Third Party Entity": {
+                    "endIndexInSegment": 161,
+                    "startIndexInSegment": 141,
+                    "selectedText": "select third parties",
+                    "value": "Unnamed third party"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 567,
+                    "startIndexInSegment": 517,
+                    "selectedText": "for the purposes of promoting IFSA-Butler programs",
+                    "value": "Marketing"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 454,
+                    "startIndexInSegment": 412,
+                    "selectedText": "We may share certain information about you",
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 444,
+                    "startIndexInSegment": 425,
+                    "selectedText": "certain information",
+                    "value": "Unspecified"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 424,
+                    "startIndexInSegment": 412,
+                    "selectedText": "We may share",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action Third Party": {
+                    "endIndexInSegment": 454,
+                    "startIndexInSegment": 412,
+                    "selectedText": "We may share certain information about you",
+                    "value": "Receive/Shared with"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "14005",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "Third Party Sharing/Collection",
+            "details": {
+                "Third Party Entity": {
+                    "endIndexInSegment": 161,
+                    "startIndexInSegment": 141,
+                    "selectedText": "select third parties",
+                    "value": "Unnamed third party"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 567,
+                    "startIndexInSegment": 517,
+                    "selectedText": "for the purposes of promoting IFSA-Butler programs",
+                    "value": "Marketing"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 515,
+                    "startIndexInSegment": 456,
+                    "selectedText": "including but not limited to your name and home institution",
+                    "value": "Contact"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 444,
+                    "startIndexInSegment": 425,
+                    "selectedText": "certain information",
+                    "value": "Unspecified"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 424,
+                    "startIndexInSegment": 412,
+                    "selectedText": "We may share",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action Third Party": {
+                    "endIndexInSegment": 454,
+                    "startIndexInSegment": 412,
+                    "selectedText": "We may share certain information about you",
+                    "value": "Receive/Shared with"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "14006",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "Third Party Sharing/Collection",
+            "details": {
+                "Third Party Entity": {
+                    "endIndexInSegment": 673,
+                    "startIndexInSegment": 633,
+                    "selectedText": "law enforcement and government officials",
+                    "value": "Named third party"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 749,
+                    "startIndexInSegment": 674,
+                    "selectedText": "in accordance with applicable laws, court orders and government regulations",
+                    "value": "Legal requirement"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 629,
+                    "startIndexInSegment": 613,
+                    "selectedText": "your information",
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 629,
+                    "startIndexInSegment": 580,
+                    "selectedText": "We reserve the right to disclose your information",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action Third Party": {
+                    "endIndexInSegment": 673,
+                    "startIndexInSegment": 604,
+                    "selectedText": "disclose your information to law enforcement and government officials",
+                    "value": "Receive/Shared with"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        }
+    ],
+    "4": [
+        {
+            "id": "4445",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3697",
+            "category": "Data Security",
+            "details": {
+                "Security Measure": {
+                    "endIndexInSegment": 29,
+                    "startIndexInSegment": 7,
+                    "selectedText": "reasonable precautions",
+                    "value": "Generic"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "4446",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3697",
+            "category": "Data Security",
+            "details": {
+                "Security Measure": {
+                    "endIndexInSegment": 181,
+                    "startIndexInSegment": 62,
+                    "selectedText": "voluntarily abide by the guidelines outlined in the Family Educational Rights and Privacy Act to maintain your privacy.",
+                    "value": "Other"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "4447",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3697",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 366,
+                    "startIndexInSegment": 182,
+                    "selectedText": "By using our website, you agree to the transfer of information to countries outside the United States that have institution and service providers associated with our overseas programs.",
+                    "value": "Practice not covered"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "7486",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3697",
+            "category": "Data Security",
+            "details": {
+                "Security Measure": {
+                    "endIndexInSegment": 181,
+                    "startIndexInSegment": 0,
+                    "selectedText": "We use reasonable precautions to protect your information and voluntarily abide by the guidelines outlined in the Family Educational Rights and Privacy Act to maintain your privacy.",
+                    "value": "Generic"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "7487",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3697",
+            "category": "User Choice/Control",
+            "details": {
+                "Choice Type": {
+                    "endIndexInSegment": 202,
+                    "startIndexInSegment": 182,
+                    "selectedText": "By using our website",
+                    "value": "Dont use service/feature"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 366,
+                    "startIndexInSegment": 204,
+                    "selectedText": "you agree to the transfer of information to countries outside the United States that have institution and service providers associated with our overseas programs.",
+                    "value": "Third party sharing/collection"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 366,
+                    "startIndexInSegment": 182,
+                    "selectedText": "By using our website, you agree to the transfer of information to countries outside the United States that have institution and service providers associated with our overseas programs.",
+                    "value": "Unspecified"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 244,
+                    "startIndexInSegment": 221,
+                    "selectedText": "transfer of information",
+                    "value": "Generic personal information"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "14007",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "Data Security",
+            "details": {
+                "Security Measure": {
+                    "endIndexInSegment": 57,
+                    "startIndexInSegment": 7,
+                    "selectedText": "reasonable precautions to protect your information",
+                    "value": "Generic"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "14008",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "Data Security",
+            "details": {
+                "Security Measure": {
+                    "endIndexInSegment": 180,
+                    "startIndexInSegment": 62,
+                    "selectedText": "voluntarily abide by the guidelines outlined in the Family Educational Rights and Privacy Act to maintain your privacy",
+                    "value": "Other"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "14009",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "User Choice/Control",
+            "details": {
+                "Choice Type": {
+                    "endIndexInSegment": 213,
+                    "startIndexInSegment": 182,
+                    "selectedText": "By using our website, you agree",
+                    "value": "Unspecified"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 366,
+                    "startIndexInSegment": 217,
+                    "selectedText": "the transfer of information to countries outside the United States that have institution and service providers associated with our overseas programs.",
+                    "value": "Third party sharing/collection"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 244,
+                    "startIndexInSegment": 233,
+                    "selectedText": "information",
+                    "value": "Unspecified"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        }
+    ],
+    "5": [
+        {
+            "id": "4448",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3697",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 412,
+                    "startIndexInSegment": 9,
+                    "selectedText": "Use of Cookies IFSA-Butler uses Cookies for the purpose of maintaining your session when you provide information to IFSA-Butler through web forms and our application system. Cookies are small pieces of information transferred from our website to your web browser to streamline your experience on our website and allow web servers to recognize the computer used to access the website.",
+                    "value": "Introductory/Generic"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "4449",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3697",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": 445,
+                    "startIndexInSegment": 438,
+                    "selectedText": "cookies",
+                    "value": "Implicit"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 456,
+                    "startIndexInSegment": 413,
+                    "selectedText": "Our website does not use cookies to collect",
+                    "value": "Collection"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 456,
+                    "startIndexInSegment": 413,
+                    "selectedText": "Our website does not use cookies to collect",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": 588,
+                    "startIndexInSegment": 502,
+                    "selectedText": "modify your browser settings to decline cookies if you wish to opt out of this service",
+                    "value": "Browser/device privacy controls"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 492,
+                    "startIndexInSegment": 457,
+                    "selectedText": "personally identifiable information",
+                    "value": "Identifiable"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 433,
+                    "startIndexInSegment": 413,
+                    "selectedText": "Our website does not",
+                    "value": "Does Not"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 201,
+                    "startIndexInSegment": 77,
+                    "selectedText": "purpose of maintaining your session when you provide information to IFSA-Butler through web forms and our application system",
+                    "value": "Basic service/feature"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "7488",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3697",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": 202,
+                    "startIndexInSegment": 113,
+                    "selectedText": "when you provide information to IFSA-Butler through web forms and our application system.",
+                    "value": "Explicit"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 589,
+                    "startIndexInSegment": 494,
+                    "selectedText": "You can modify your browser settings to decline cookies if you wish to opt out of this service.",
+                    "value": "Both"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 202,
+                    "startIndexInSegment": 113,
+                    "selectedText": "when you provide information to IFSA-Butler through web forms and our application system.",
+                    "value": "Other"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 589,
+                    "startIndexInSegment": 9,
+                    "selectedText": "Use of Cookies IFSA-Butler uses Cookies for the purpose of maintaining your session when you provide information to IFSA-Butler through web forms and our application system. Cookies are small pieces of information transferred from our website to your web browser to streamline your experience on our website and allow web servers to recognize the computer used to access the website. Our website does not use cookies to collect personally identifiable information. You can modify your browser settings to decline cookies if you wish to opt out of this service.",
+                    "value": "Cookies and tracking elements"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": 589,
+                    "startIndexInSegment": 494,
+                    "selectedText": "You can modify your browser settings to decline cookies if you wish to opt out of this service.",
+                    "value": "Browser/device privacy controls"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 493,
+                    "startIndexInSegment": 413,
+                    "selectedText": "Our website does not use cookies to collect personally identifiable information.",
+                    "value": "Aggregated or anonymized"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 60,
+                    "startIndexInSegment": 44,
+                    "selectedText": "IFSA-Butler uses",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 412,
+                    "startIndexInSegment": 69,
+                    "selectedText": "for the purpose of maintaining your session when you provide information to IFSA-Butler through web forms and our application system. Cookies are small pieces of information transferred from our website to your web browser to streamline your experience on our website and allow web servers to recognize the computer used to access the website.",
+                    "value": "Additional service/feature"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "14011",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 412,
+                    "startIndexInSegment": 203,
+                    "selectedText": "Cookies are small pieces of information transferred from our website to your web browser to streamline your experience on our website and allow web servers to recognize the computer used to access the website.",
+                    "value": "Introductory/Generic"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "14143",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": 456,
+                    "startIndexInSegment": 449,
+                    "selectedText": "collect",
+                    "value": "Unspecified"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 492,
+                    "startIndexInSegment": 446,
+                    "selectedText": "to collect personally identifiable information",
+                    "value": "Unspecified"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 445,
+                    "startIndexInSegment": 438,
+                    "selectedText": "cookies",
+                    "value": "Cookies and tracking elements"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 492,
+                    "startIndexInSegment": 457,
+                    "selectedText": "personally identifiable information",
+                    "value": "Identifiable"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 433,
+                    "startIndexInSegment": 425,
+                    "selectedText": "does not",
+                    "value": "Does Not"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Purpose": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "14144",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": 456,
+                    "startIndexInSegment": 449,
+                    "selectedText": "collect",
+                    "value": "Unspecified"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 492,
+                    "startIndexInSegment": 446,
+                    "selectedText": "to collect personally identifiable information",
+                    "value": "Unspecified"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 492,
+                    "startIndexInSegment": 457,
+                    "selectedText": "personally identifiable information",
+                    "value": "Personal identifier"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 492,
+                    "startIndexInSegment": 457,
+                    "selectedText": "personally identifiable information",
+                    "value": "Identifiable"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 433,
+                    "startIndexInSegment": 425,
+                    "selectedText": "does not",
+                    "value": "Does Not"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Purpose": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "14145",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": 201,
+                    "startIndexInSegment": 113,
+                    "selectedText": "when you provide information to IFSA-Butler through web forms and our application system",
+                    "value": "Explicit"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 201,
+                    "startIndexInSegment": 113,
+                    "selectedText": "when you provide information to IFSA-Butler through web forms and our application system",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 68,
+                    "startIndexInSegment": 56,
+                    "selectedText": "uses Cookies",
+                    "value": "Cookies and tracking elements"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": 589,
+                    "startIndexInSegment": 494,
+                    "selectedText": "You can modify your browser settings to decline cookies if you wish to opt out of this service.",
+                    "value": "Browser/device privacy controls"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 60,
+                    "startIndexInSegment": 44,
+                    "selectedText": "IFSA-Butler uses",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 112,
+                    "startIndexInSegment": 69,
+                    "selectedText": "for the purpose of maintaining your session",
+                    "value": "Basic service/feature"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        }
+    ],
+    "6": [
+        {
+            "id": "4450",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3697",
+            "category": "Third Party Sharing/Collection",
+            "details": {
+                "Third Party Entity": {
+                    "endIndexInSegment": 61,
+                    "startIndexInSegment": 41,
+                    "selectedText": "Facebook and Twitter",
+                    "value": "Named third party"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 73,
+                    "startIndexInSegment": 63,
+                    "selectedText": "to collect",
+                    "value": "Collection"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 151,
+                    "startIndexInSegment": 120,
+                    "selectedText": "purposes of conversion tracking",
+                    "value": "Other"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": 450,
+                    "startIndexInSegment": 370,
+                    "selectedText": "Should you wish to opt out of such tracking, please modify your browser settings",
+                    "value": "Browser/device privacy controls"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 368,
+                    "startIndexInSegment": 243,
+                    "selectedText": "does not include any specific information relating to your application to an IFSA-Butler program or your personal information",
+                    "value": "Other"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 73,
+                    "startIndexInSegment": 63,
+                    "selectedText": "to collect",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action Third Party": {
+                    "endIndexInSegment": 111,
+                    "startIndexInSegment": 63,
+                    "selectedText": "to collect certain user data through our website",
+                    "value": "Collect on first party website/app"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "4451",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3697",
+            "category": "Third Party Sharing/Collection",
+            "details": {
+                "Third Party Entity": {
+                    "endIndexInSegment": 61,
+                    "startIndexInSegment": 41,
+                    "selectedText": "Facebook and Twitter",
+                    "value": "Named third party"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 73,
+                    "startIndexInSegment": 63,
+                    "selectedText": "to collect",
+                    "value": "Collection"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 196,
+                    "startIndexInSegment": 156,
+                    "selectedText": "serving ads targeted to users' interests",
+                    "value": "Advertising"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": 450,
+                    "startIndexInSegment": 370,
+                    "selectedText": "Should you wish to opt out of such tracking, please modify your browser settings",
+                    "value": "Browser/device privacy controls"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 368,
+                    "startIndexInSegment": 243,
+                    "selectedText": "does not include any specific information relating to your application to an IFSA-Butler program or your personal information",
+                    "value": "Other"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 73,
+                    "startIndexInSegment": 63,
+                    "selectedText": "to collect",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action Third Party": {
+                    "endIndexInSegment": 111,
+                    "startIndexInSegment": 63,
+                    "selectedText": "to collect certain user data through our website",
+                    "value": "Collect on first party website/app"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "4452",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3697",
+            "category": "Third Party Sharing/Collection",
+            "details": {
+                "Third Party Entity": {
+                    "endIndexInSegment": 61,
+                    "startIndexInSegment": 41,
+                    "selectedText": "Facebook and Twitter",
+                    "value": "Named third party"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 73,
+                    "startIndexInSegment": 63,
+                    "selectedText": "to collect",
+                    "value": "Collection"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 151,
+                    "startIndexInSegment": 120,
+                    "selectedText": "purposes of conversion tracking",
+                    "value": "Other"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": 562,
+                    "startIndexInSegment": 454,
+                    "selectedText": "modify your privacy settings within Facebook and Twitter to disable interest-based advertising and tracking.",
+                    "value": "Third-party privacy controls"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 368,
+                    "startIndexInSegment": 243,
+                    "selectedText": "does not include any specific information relating to your application to an IFSA-Butler program or your personal information",
+                    "value": "Other"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 73,
+                    "startIndexInSegment": 63,
+                    "selectedText": "to collect",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action Third Party": {
+                    "endIndexInSegment": 111,
+                    "startIndexInSegment": 63,
+                    "selectedText": "to collect certain user data through our website",
+                    "value": "Collect on first party website/app"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "4453",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3697",
+            "category": "Third Party Sharing/Collection",
+            "details": {
+                "Third Party Entity": {
+                    "endIndexInSegment": 61,
+                    "startIndexInSegment": 41,
+                    "selectedText": "Facebook and Twitter",
+                    "value": "Named third party"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 73,
+                    "startIndexInSegment": 63,
+                    "selectedText": "to collect",
+                    "value": "Collection"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 196,
+                    "startIndexInSegment": 156,
+                    "selectedText": "serving ads targeted to users' interests",
+                    "value": "Advertising"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": 562,
+                    "startIndexInSegment": 454,
+                    "selectedText": "modify your privacy settings within Facebook and Twitter to disable interest-based advertising and tracking.",
+                    "value": "Third-party privacy controls"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 368,
+                    "startIndexInSegment": 243,
+                    "selectedText": "does not include any specific information relating to your application to an IFSA-Butler program or your personal information",
+                    "value": "Other"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 73,
+                    "startIndexInSegment": 63,
+                    "selectedText": "to collect",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action Third Party": {
+                    "endIndexInSegment": 111,
+                    "startIndexInSegment": 63,
+                    "selectedText": "to collect certain user data through our website",
+                    "value": "Collect on first party website/app"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "7489",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3697",
+            "category": "Third Party Sharing/Collection",
+            "details": {
+                "Third Party Entity": {
+                    "endIndexInSegment": 61,
+                    "startIndexInSegment": 33,
+                    "selectedText": "such as Facebook and Twitter",
+                    "value": "Named third party"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 562,
+                    "startIndexInSegment": 370,
+                    "selectedText": "Should you wish to opt out of such tracking, please modify your browser settings or modify your privacy settings within Facebook and Twitter to disable interest-based advertising and tracking.",
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 197,
+                    "startIndexInSegment": 112,
+                    "selectedText": "for the purposes of conversion tracking and serving ads targeted to users' interests.",
+                    "value": "Advertising"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 111,
+                    "startIndexInSegment": 66,
+                    "selectedText": "collect certain user data through our website",
+                    "value": "Generic personal information"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": 450,
+                    "startIndexInSegment": 370,
+                    "selectedText": "Should you wish to opt out of such tracking, please modify your browser settings",
+                    "value": "Browser/device privacy controls"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 369,
+                    "startIndexInSegment": 198,
+                    "selectedText": "The information we share with these services does not include any specific information relating to your application to an IFSA-Butler program or your personal information.",
+                    "value": "Aggregated or anonymized"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Action Third Party": {
+                    "endIndexInSegment": 111,
+                    "startIndexInSegment": 63,
+                    "selectedText": "to collect certain user data through our website",
+                    "value": "Collect on first party website/app"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "7490",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3697",
+            "category": "Third Party Sharing/Collection",
+            "details": {
+                "Third Party Entity": {
+                    "endIndexInSegment": 61,
+                    "startIndexInSegment": 18,
+                    "selectedText": "third parties, such as Facebook and Twitter",
+                    "value": "Named third party"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 414,
+                    "startIndexInSegment": 370,
+                    "selectedText": "Should you wish to opt out of such tracking,",
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 197,
+                    "startIndexInSegment": 112,
+                    "selectedText": "for the purposes of conversion tracking and serving ads targeted to users' interests.",
+                    "value": "Advertising"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 91,
+                    "startIndexInSegment": 74,
+                    "selectedText": "certain user data",
+                    "value": "Generic personal information"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": 562,
+                    "startIndexInSegment": 454,
+                    "selectedText": "modify your privacy settings within Facebook and Twitter to disable interest-based advertising and tracking.",
+                    "value": "Third-party privacy controls"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Action Third Party": {
+                    "endIndexInSegment": 111,
+                    "startIndexInSegment": 63,
+                    "selectedText": "to collect certain user data through our website",
+                    "value": "Collect on first party website/app"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "14146",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "Third Party Sharing/Collection",
+            "details": {
+                "Third Party Entity": {
+                    "endIndexInSegment": 31,
+                    "startIndexInSegment": 18,
+                    "selectedText": "third parties",
+                    "value": "Unnamed third party"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 197,
+                    "startIndexInSegment": 156,
+                    "selectedText": "serving ads targeted to users' interests.",
+                    "value": "Advertising"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 369,
+                    "startIndexInSegment": 243,
+                    "selectedText": "does not include any specific information relating to your application to an IFSA-Butler program or your personal information.",
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": 562,
+                    "startIndexInSegment": 370,
+                    "selectedText": "Should you wish to opt out of such tracking, please modify your browser settings or modify your privacy settings within Facebook and Twitter to disable interest-based advertising and tracking.",
+                    "value": "Browser/device privacy controls"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 369,
+                    "startIndexInSegment": 243,
+                    "selectedText": "does not include any specific information relating to your application to an IFSA-Butler program or your personal information.",
+                    "value": "Aggregated or anonymized"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 91,
+                    "startIndexInSegment": 63,
+                    "selectedText": "to collect certain user data",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action Third Party": {
+                    "endIndexInSegment": 111,
+                    "startIndexInSegment": 63,
+                    "selectedText": "to collect certain user data through our website",
+                    "value": "Collect on first party website/app"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "14147",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "Third Party Sharing/Collection",
+            "details": {
+                "Third Party Entity": {
+                    "endIndexInSegment": 61,
+                    "startIndexInSegment": 41,
+                    "selectedText": "Facebook and Twitter",
+                    "value": "Named third party"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 197,
+                    "startIndexInSegment": 156,
+                    "selectedText": "serving ads targeted to users' interests.",
+                    "value": "Advertising"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 369,
+                    "startIndexInSegment": 243,
+                    "selectedText": "does not include any specific information relating to your application to an IFSA-Butler program or your personal information.",
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": 562,
+                    "startIndexInSegment": 370,
+                    "selectedText": "Should you wish to opt out of such tracking, please modify your browser settings or modify your privacy settings within Facebook and Twitter to disable interest-based advertising and tracking.",
+                    "value": "Browser/device privacy controls"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 369,
+                    "startIndexInSegment": 243,
+                    "selectedText": "does not include any specific information relating to your application to an IFSA-Butler program or your personal information.",
+                    "value": "Aggregated or anonymized"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 91,
+                    "startIndexInSegment": 63,
+                    "selectedText": "to collect certain user data",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action Third Party": {
+                    "endIndexInSegment": 111,
+                    "startIndexInSegment": 63,
+                    "selectedText": "to collect certain user data through our website",
+                    "value": "Collect on first party website/app"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "14148",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "Third Party Sharing/Collection",
+            "details": {
+                "Third Party Entity": {
+                    "endIndexInSegment": 31,
+                    "startIndexInSegment": 18,
+                    "selectedText": "third parties",
+                    "value": "Unnamed third party"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 151,
+                    "startIndexInSegment": 132,
+                    "selectedText": "conversion tracking",
+                    "value": "Analytics/Research"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 369,
+                    "startIndexInSegment": 243,
+                    "selectedText": "does not include any specific information relating to your application to an IFSA-Butler program or your personal information.",
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": 562,
+                    "startIndexInSegment": 370,
+                    "selectedText": "Should you wish to opt out of such tracking, please modify your browser settings or modify your privacy settings within Facebook and Twitter to disable interest-based advertising and tracking.",
+                    "value": "Browser/device privacy controls"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 369,
+                    "startIndexInSegment": 243,
+                    "selectedText": "does not include any specific information relating to your application to an IFSA-Butler program or your personal information.",
+                    "value": "Aggregated or anonymized"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 91,
+                    "startIndexInSegment": 63,
+                    "selectedText": "to collect certain user data",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action Third Party": {
+                    "endIndexInSegment": 111,
+                    "startIndexInSegment": 63,
+                    "selectedText": "to collect certain user data through our website",
+                    "value": "Collect on first party website/app"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "14149",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "Third Party Sharing/Collection",
+            "details": {
+                "Third Party Entity": {
+                    "endIndexInSegment": 61,
+                    "startIndexInSegment": 41,
+                    "selectedText": "Facebook and Twitter",
+                    "value": "Named third party"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 151,
+                    "startIndexInSegment": 132,
+                    "selectedText": "conversion tracking",
+                    "value": "Analytics/Research"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 369,
+                    "startIndexInSegment": 243,
+                    "selectedText": "does not include any specific information relating to your application to an IFSA-Butler program or your personal information.",
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": 562,
+                    "startIndexInSegment": 370,
+                    "selectedText": "Should you wish to opt out of such tracking, please modify your browser settings or modify your privacy settings within Facebook and Twitter to disable interest-based advertising and tracking.",
+                    "value": "Browser/device privacy controls"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 369,
+                    "startIndexInSegment": 243,
+                    "selectedText": "does not include any specific information relating to your application to an IFSA-Butler program or your personal information.",
+                    "value": "Aggregated or anonymized"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 91,
+                    "startIndexInSegment": 63,
+                    "selectedText": "to collect certain user data",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action Third Party": {
+                    "endIndexInSegment": 111,
+                    "startIndexInSegment": 63,
+                    "selectedText": "to collect certain user data through our website",
+                    "value": "Collect on first party website/app"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        }
+    ],
+    "7": [
+        {
+            "id": "C172",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 370,
+                    "startIndexInSegment": 9,
+                    "selectedText": "Links to Other Websites The IFSA-Butler website contains links to other websites that may or may not be affiliated with the Institute for Study Abroad, Butler University. IFSA-Butler is not responsible for the content or privacy practices on these websites, nor does the posting of a link constitute an endorsement by IFSA-Butler of said website.",
+                    "value": "Other"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        }
+    ],
+    "8": [
+        {
+            "id": "4455",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3697",
+            "category": "User Access, Edit and Deletion",
+            "details": {
+                "Access Type": {
+                    "endIndexInSegment": 271,
+                    "startIndexInSegment": 245,
+                    "selectedText": "can be updated or modified",
+                    "value": "Edit information"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Access Scope": {
+                    "endIndexInSegment": 205,
+                    "startIndexInSegment": 98,
+                    "selectedText": "personal information collected about you through our online applications and in our communications with you",
+                    "value": "Other data about user"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "4456",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3697",
+            "category": "User Choice/Control",
+            "details": {
+                "Choice Type": {
+                    "endIndexInSegment": 78,
+                    "startIndexInSegment": 38,
+                    "selectedText": "Opting Out of IFSA-Butler Communications",
+                    "value": "Opt-out via contacting company"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 349,
+                    "startIndexInSegment": 94,
+                    "selectedText": "The personal information collected about you through our online applications and in our communications with you is stored in our internal database and can be updated or modified at any time by calling (800) 858-0229 or emailing studyabroad@ifsa-butler.org",
+                    "value": "First party use"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 78,
+                    "startIndexInSegment": 64,
+                    "selectedText": "Communications",
+                    "value": "Marketing"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 205,
+                    "startIndexInSegment": 98,
+                    "selectedText": "personal information collected about you through our online applications and in our communications with you",
+                    "value": "Generic personal information"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "7492",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3697",
+            "category": "User Access, Edit and Deletion",
+            "details": {
+                "Access Type": {
+                    "endIndexInSegment": 350,
+                    "startIndexInSegment": 245,
+                    "selectedText": "can be updated or modified at any time by calling (800) 858-0229 or emailing studyabroad@ifsa-butler.org.",
+                    "value": "Edit information"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Access Scope": {
+                    "endIndexInSegment": 205,
+                    "startIndexInSegment": 94,
+                    "selectedText": "The personal information collected about you through our online applications and in our communications with you",
+                    "value": "Transactional data"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "7493",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3697",
+            "category": "Data Retention",
+            "details": {
+                "Personal Information Type": {
+                    "endIndexInSegment": 118,
+                    "startIndexInSegment": 94,
+                    "selectedText": "The personal information",
+                    "value": "Generic personal information"
+                },
+                "Retention Period": {
+                    "endIndexInSegment": 240,
+                    "startIndexInSegment": 94,
+                    "selectedText": "The personal information collected about you through our online applications and in our communications with you is stored in our internal database",
+                    "value": "Unspecified"
+                },
+                "Retention Purpose": {
+                    "endIndexInSegment": 240,
+                    "startIndexInSegment": 94,
+                    "selectedText": "The personal information collected about you through our online applications and in our communications with you is stored in our internal database",
+                    "value": "Unspecified"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "7494",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3697",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 350,
+                    "startIndexInSegment": 245,
+                    "selectedText": "can be updated or modified at any time by calling (800) 858-0229 or emailing studyabroad@ifsa-butler.org.",
+                    "value": "Privacy contact information"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "14151",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "User Choice/Control",
+            "details": {
+                "Choice Type": {
+                    "endIndexInSegment": 350,
+                    "startIndexInSegment": 245,
+                    "selectedText": "can be updated or modified at any time by calling (800) 858-0229 or emailing studyabroad@ifsa-butler.org.",
+                    "value": "Opt-out via contacting company"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 205,
+                    "startIndexInSegment": 98,
+                    "selectedText": "personal information collected about you through our online applications and in our communications with you",
+                    "value": "First party collection"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 138,
+                    "startIndexInSegment": 98,
+                    "selectedText": "personal information collected about you",
+                    "value": "Unspecified"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "14152",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "User Access, Edit and Deletion",
+            "details": {
+                "Access Type": {
+                    "endIndexInSegment": 271,
+                    "startIndexInSegment": 245,
+                    "selectedText": "can be updated or modified",
+                    "value": "Edit information"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Access Scope": {
+                    "endIndexInSegment": 170,
+                    "startIndexInSegment": 151,
+                    "selectedText": "online applications",
+                    "value": "User account data"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "14153",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "User Access, Edit and Deletion",
+            "details": {
+                "Access Type": {
+                    "endIndexInSegment": 271,
+                    "startIndexInSegment": 245,
+                    "selectedText": "can be updated or modified",
+                    "value": "Edit information"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Access Scope": {
+                    "endIndexInSegment": 205,
+                    "startIndexInSegment": 182,
+                    "selectedText": "communications with you",
+                    "value": "Transactional data"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "14159",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 350,
+                    "startIndexInSegment": 295,
+                    "selectedText": "(800) 858-0229 or emailing studyabroad@ifsa-butler.org.",
+                    "value": "Privacy contact information"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        }
+    ],
+    "9": [
+        {
+            "id": "4457",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3697",
+            "category": "User Choice/Control",
+            "details": {
+                "Choice Type": {
+                    "endIndexInSegment": 209,
+                    "startIndexInSegment": 70,
+                    "selectedText": "you may opt out by contacting us at (800) 858-0229 or by mail at: 1100 W. 42nd Street, Suite 305 Indianapolis, IN 46208-3345",
+                    "value": "Opt-out via contacting company"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 51,
+                    "startIndexInSegment": 25,
+                    "selectedText": "receive all communications",
+                    "value": "First party use"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 68,
+                    "startIndexInSegment": 37,
+                    "selectedText": "communications from IFSA-Butler",
+                    "value": "Marketing"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "7495",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3697",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 209,
+                    "startIndexInSegment": 0,
+                    "selectedText": "If you wish to no longer receive all communications from IFSA-Butler, you may opt out by contacting us at (800) 858-0229 or by mail at: 1100 W. 42nd Street, Suite 305 Indianapolis, IN 46208-3345",
+                    "value": "Privacy contact information"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "7496",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3697",
+            "category": "User Choice/Control",
+            "details": {
+                "Choice Type": {
+                    "endIndexInSegment": 209,
+                    "startIndexInSegment": 0,
+                    "selectedText": "If you wish to no longer receive all communications from IFSA-Butler, you may opt out by contacting us at (800) 858-0229 or by mail at: 1100 W. 42nd Street, Suite 305 Indianapolis, IN 46208-3345",
+                    "value": "Opt-out via contacting company"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 85,
+                    "startIndexInSegment": 0,
+                    "selectedText": "If you wish to no longer receive all communications from IFSA-Butler, you may opt out",
+                    "value": "Unspecified"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 69,
+                    "startIndexInSegment": 0,
+                    "selectedText": "If you wish to no longer receive all communications from IFSA-Butler,",
+                    "value": "Marketing"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 209,
+                    "startIndexInSegment": 0,
+                    "selectedText": "If you wish to no longer receive all communications from IFSA-Butler, you may opt out by contacting us at (800) 858-0229 or by mail at: 1100 W. 42nd Street, Suite 305 Indianapolis, IN 46208-3345",
+                    "value": "Other"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "14154",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "User Choice/Control",
+            "details": {
+                "Choice Type": {
+                    "endIndexInSegment": 209,
+                    "startIndexInSegment": 70,
+                    "selectedText": "you may opt out by contacting us at (800) 858-0229 or by mail at: 1100 W. 42nd Street, Suite 305 Indianapolis, IN 46208-3345",
+                    "value": "Opt-out via contacting company"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 51,
+                    "startIndexInSegment": 12,
+                    "selectedText": "to no longer receive all communications",
+                    "value": "First party use"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 51,
+                    "startIndexInSegment": 37,
+                    "selectedText": "communications",
+                    "value": "Contact"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "14158",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 209,
+                    "startIndexInSegment": 146,
+                    "selectedText": "1100 W. 42nd Street, Suite 305 Indianapolis, IN 46208-3345",
+                    "value": "Privacy contact information"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        }
+    ],
+    "10": [
+        {
+            "id": "C173",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3697",
+            "category": "International and Specific Audiences",
+            "details": {
+                "Audience Type": {
+                    "endIndexInSegment": 220,
+                    "startIndexInSegment": 9,
+                    "selectedText": "Children's Privacy The IFSA-Butler website is not intended for visitors under the age of 13 and IFSA-Butler does not solicit or intentionally collect information from children under the age of 13.",
+                    "value": "Children"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "14155",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "International and Specific Audiences",
+            "details": {
+                "Audience Type": {
+                    "endIndexInSegment": 115,
+                    "startIndexInSegment": 87,
+                    "selectedText": "visitors under the age of 13",
+                    "value": "Children"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        }
+    ],
+    "11": [
+        {
+            "id": "4459",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3697",
+            "category": "Policy Change",
+            "details": {
+                "Change Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "User Choice": {
+                    "endIndexInSegment": 292,
+                    "startIndexInSegment": 125,
+                    "selectedText": "All changes to this policy will be posted on the IFSA-Butler website. We encourage you to periodically review this policy to remain up to date on our privacy practices",
+                    "value": "None"
+                },
+                "Notification Type": {
+                    "endIndexInSegment": 293,
+                    "startIndexInSegment": 125,
+                    "selectedText": "All changes to this policy will be posted on the IFSA-Butler website. We encourage you to periodically review this policy to remain up to date on our privacy practices.",
+                    "value": "No notification"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "7498",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3697",
+            "category": "Policy Change",
+            "details": {
+                "Change Type": {
+                    "endIndexInSegment": 293,
+                    "startIndexInSegment": 9,
+                    "selectedText": "Changes to this Policy We reserve the right to modify the contents of this privacy policy as needed. All changes to this policy will be posted on the IFSA-Butler website. We encourage you to periodically review this policy to remain up to date on our privacy practices.",
+                    "value": "Unspecified"
+                },
+                "User Choice": {
+                    "endIndexInSegment": 293,
+                    "startIndexInSegment": 47,
+                    "selectedText": "We reserve the right to modify the contents of this privacy policy as needed. All changes to this policy will be posted on the IFSA-Butler website. We encourage you to periodically review this policy to remain up to date on our privacy practices.",
+                    "value": "Unspecified"
+                },
+                "Notification Type": {
+                    "endIndexInSegment": 293,
+                    "startIndexInSegment": 125,
+                    "selectedText": "All changes to this policy will be posted on the IFSA-Butler website. We encourage you to periodically review this policy to remain up to date on our privacy practices.",
+                    "value": "General notice on website"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        },
+        {
+            "id": "14156",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "Policy Change",
+            "details": {
+                "Change Type": {
+                    "endIndexInSegment": 136,
+                    "startIndexInSegment": 125,
+                    "selectedText": "All changes",
+                    "value": "Non-privacy relevant change"
+                },
+                "User Choice": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Notification Type": {
+                    "endIndexInSegment": 194,
+                    "startIndexInSegment": 125,
+                    "selectedText": "All changes to this policy will be posted on the IFSA-Butler website.",
+                    "value": "General notice on website"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        }
+    ],
+    "12": [
+        {
+            "id": "C174",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3697",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 281,
+                    "startIndexInSegment": 0,
+                    "selectedText": "All textual, graphic and other content appearing on this website are the property of the Institute for Study Abroad, Butler University (IFSA-Butler). Copyright 2004-2010. Institute for Study Abroad, 1100 W. 42nd St., Suite 305, Indianapolis, Indiana 46208 USA. All Rights Reserved.",
+                    "value": "Other"
+                }
+            },
+            "date": "Not specified",
+            "url": "http://www.ifsa-butler.org/about-us/about-ifsa-butler/terms-of-use.html"
+        }
+    ]
+}

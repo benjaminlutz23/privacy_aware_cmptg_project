@@ -1,0 +1,3167 @@
+{
+    "0": [
+        {
+            "id": "C842",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "Data Security",
+            "details": {
+                "Security Measure": {
+                    "endIndexInSegment": 720,
+                    "startIndexInSegment": 620,
+                    "selectedText": "Transactions are transmitted using 128-bit secure socket layers (SSL) for up-to-date data protection",
+                    "value": "Secure data transfer"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "7741",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3707",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 720,
+                    "startIndexInSegment": 9,
+                    "selectedText": "Terms and Conditions Please refer to the order terms below. If you have any further questions, please contact us. Web orders will ship 5-7 business days from the time of purchase. Any defective items purchased directly from Lodge are eligible for full refund or exchange by contacting customer service. Shipping for returns/exchanges due to non-defect reasons (i.e. wrong size, color, no longer desired) will be the responsibility of the customer. Items bought from retailers should be returned/exchanged at the place of purchase. Transactions are transmitted using 128-bit secure socket layers (SSL) for up-to-date data protection",
+                    "value": "Practice not covered"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23721",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 609,
+                    "startIndexInSegment": 50,
+                    "selectedText": "Please refer to the order terms below. If you have any further questions, please contact us. Web orders will ship 5-7 business days from the time of purchase. Any defective items purchased directly from Lodge are eligible for full refund or exchange by contacting customer service. Shipping for returns/exchanges due to non-defect reasons (i.e. wrong size, color, no longer desired) will be the responsibility of the customer. Items bought from retailers should be returned/exchanged at the place of purchase.",
+                    "value": "Other"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "1": [
+        {
+            "id": "C843",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3707",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 613,
+                    "startIndexInSegment": 9,
+                    "selectedText": "Privacy Policy This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.",
+                    "value": "Introductory/Generic"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23722",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 613,
+                    "startIndexInSegment": 44,
+                    "selectedText": "This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.",
+                    "value": "Introductory/Generic"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "2": [
+        {
+            "id": "7743",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3707",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": 186,
+                    "startIndexInSegment": 161,
+                    "selectedText": "you may be asked to enter",
+                    "value": "Explicit"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 39,
+                    "startIndexInSegment": 32,
+                    "selectedText": "collect",
+                    "value": "Collection"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 143,
+                    "startIndexInSegment": 103,
+                    "selectedText": "When ordering or registering on our site",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 228,
+                    "startIndexInSegment": 192,
+                    "selectedText": "name, email address, mailing address",
+                    "value": "Contact"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": 186,
+                    "startIndexInSegment": 161,
+                    "selectedText": "you may be asked to enter",
+                    "value": "Dont use service/feature"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 253,
+                    "startIndexInSegment": 192,
+                    "selectedText": "name, email address, mailing address, credit card information",
+                    "value": "Identifiable"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 304,
+                    "startIndexInSegment": 161,
+                    "selectedText": "you may be asked to enter your name, email address, mailing address, credit card information or other details to help you with your experience.",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 144,
+                    "startIndexInSegment": 108,
+                    "selectedText": "ordering or registering on our site,",
+                    "value": "Basic service/feature"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "7744",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3707",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": 186,
+                    "startIndexInSegment": 161,
+                    "selectedText": "you may be asked to enter",
+                    "value": "Explicit"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 39,
+                    "startIndexInSegment": 32,
+                    "selectedText": "collect",
+                    "value": "Collection"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 143,
+                    "startIndexInSegment": 103,
+                    "selectedText": "When ordering or registering on our site",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 253,
+                    "startIndexInSegment": 230,
+                    "selectedText": "credit card information",
+                    "value": "Financial"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": 186,
+                    "startIndexInSegment": 161,
+                    "selectedText": "you may be asked to enter",
+                    "value": "Dont use service/feature"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 253,
+                    "startIndexInSegment": 192,
+                    "selectedText": "name, email address, mailing address, credit card information",
+                    "value": "Identifiable"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 304,
+                    "startIndexInSegment": 161,
+                    "selectedText": "you may be asked to enter your name, email address, mailing address, credit card information or other details to help you with your experience.",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 144,
+                    "startIndexInSegment": 108,
+                    "selectedText": "ordering or registering on our site,",
+                    "value": "Basic service/feature"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "7745",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3707",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": 186,
+                    "startIndexInSegment": 161,
+                    "selectedText": "you may be asked to enter",
+                    "value": "Explicit"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 39,
+                    "startIndexInSegment": 32,
+                    "selectedText": "collect",
+                    "value": "Collection"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 143,
+                    "startIndexInSegment": 103,
+                    "selectedText": "When ordering or registering on our site",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 303,
+                    "startIndexInSegment": 257,
+                    "selectedText": "other details to help you with your experience",
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": 186,
+                    "startIndexInSegment": 161,
+                    "selectedText": "you may be asked to enter",
+                    "value": "Dont use service/feature"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 253,
+                    "startIndexInSegment": 192,
+                    "selectedText": "name, email address, mailing address, credit card information",
+                    "value": "Identifiable"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 304,
+                    "startIndexInSegment": 161,
+                    "selectedText": "you may be asked to enter your name, email address, mailing address, credit card information or other details to help you with your experience.",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 144,
+                    "startIndexInSegment": 108,
+                    "selectedText": "ordering or registering on our site,",
+                    "value": "Basic service/feature"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "8757",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3707",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": 186,
+                    "startIndexInSegment": 161,
+                    "selectedText": "you may be asked to enter",
+                    "value": "Explicit"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 144,
+                    "startIndexInSegment": 103,
+                    "selectedText": "When ordering or registering on our site,",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 229,
+                    "startIndexInSegment": 161,
+                    "selectedText": "you may be asked to enter your name, email address, mailing address,",
+                    "value": "Contact"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Purpose": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "8758",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3707",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": 186,
+                    "startIndexInSegment": 161,
+                    "selectedText": "you may be asked to enter",
+                    "value": "Explicit"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 144,
+                    "startIndexInSegment": 103,
+                    "selectedText": "When ordering or registering on our site,",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 304,
+                    "startIndexInSegment": 230,
+                    "selectedText": "credit card information or other details to help you with your experience.",
+                    "value": "Financial"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Purpose": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23723",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 92,
+                    "startIndexInSegment": 0,
+                    "selectedText": "What personal information do we collect from the people that visit our blog, website or app?",
+                    "value": "Introductory/Generic"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23724",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 84,
+                    "startIndexInSegment": 77,
+                    "selectedText": "website",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 229,
+                    "startIndexInSegment": 187,
+                    "selectedText": "your name, email address, mailing address,",
+                    "value": "Contact"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 44,
+                    "startIndexInSegment": 29,
+                    "selectedText": "we collect from",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 143,
+                    "startIndexInSegment": 103,
+                    "selectedText": "When ordering or registering on our site",
+                    "value": "Basic service/feature"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23725",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 91,
+                    "startIndexInSegment": 88,
+                    "selectedText": "app",
+                    "value": "Collect in mobile app"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 229,
+                    "startIndexInSegment": 187,
+                    "selectedText": "your name, email address, mailing address,",
+                    "value": "Contact"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 44,
+                    "startIndexInSegment": 29,
+                    "selectedText": "we collect from",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 143,
+                    "startIndexInSegment": 103,
+                    "selectedText": "When ordering or registering on our site",
+                    "value": "Basic service/feature"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23726",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 84,
+                    "startIndexInSegment": 77,
+                    "selectedText": "website",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 253,
+                    "startIndexInSegment": 230,
+                    "selectedText": "credit card information",
+                    "value": "Financial"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 44,
+                    "startIndexInSegment": 29,
+                    "selectedText": "we collect from",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 143,
+                    "startIndexInSegment": 103,
+                    "selectedText": "When ordering or registering on our site",
+                    "value": "Basic service/feature"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23727",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 91,
+                    "startIndexInSegment": 88,
+                    "selectedText": "app",
+                    "value": "Collect in mobile app"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 253,
+                    "startIndexInSegment": 230,
+                    "selectedText": "credit card information",
+                    "value": "Financial"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 44,
+                    "startIndexInSegment": 29,
+                    "selectedText": "we collect from",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 143,
+                    "startIndexInSegment": 103,
+                    "selectedText": "When ordering or registering on our site",
+                    "value": "Basic service/feature"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23728",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 84,
+                    "startIndexInSegment": 77,
+                    "selectedText": "website",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 270,
+                    "startIndexInSegment": 257,
+                    "selectedText": "other details",
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 44,
+                    "startIndexInSegment": 29,
+                    "selectedText": "we collect from",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 143,
+                    "startIndexInSegment": 103,
+                    "selectedText": "When ordering or registering on our site",
+                    "value": "Basic service/feature"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23729",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 91,
+                    "startIndexInSegment": 88,
+                    "selectedText": "app",
+                    "value": "Collect in mobile app"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 270,
+                    "startIndexInSegment": 257,
+                    "selectedText": "other details",
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 44,
+                    "startIndexInSegment": 29,
+                    "selectedText": "we collect from",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 143,
+                    "startIndexInSegment": 103,
+                    "selectedText": "When ordering or registering on our site",
+                    "value": "Basic service/feature"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "3": [
+        {
+            "id": "7746",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3707",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": 131,
+                    "startIndexInSegment": 74,
+                    "selectedText": "when you place an order or enter information on our site.",
+                    "value": "Explicit"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 18,
+                    "startIndexInSegment": 11,
+                    "selectedText": "collect",
+                    "value": "Collection"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 131,
+                    "startIndexInSegment": 74,
+                    "selectedText": "when you place an order or enter information on our site.",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 30,
+                    "startIndexInSegment": 19,
+                    "selectedText": "information",
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": 131,
+                    "startIndexInSegment": 42,
+                    "selectedText": "We collect information from you when you place an order or enter information on our site.",
+                    "value": "Dont use service/feature"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 73,
+                    "startIndexInSegment": 42,
+                    "selectedText": "We collect information from you",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 131,
+                    "startIndexInSegment": 83,
+                    "selectedText": "place an order or enter information on our site.",
+                    "value": "Basic service/feature"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "8759",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3707",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 131,
+                    "startIndexInSegment": 0,
+                    "selectedText": "When do we collect information? We collect information from you when you place an order or enter information on our site.",
+                    "value": "Introductory/Generic"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23730",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": 118,
+                    "startIndexInSegment": 74,
+                    "selectedText": "when you place an order or enter information",
+                    "value": "Unspecified"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 131,
+                    "startIndexInSegment": 119,
+                    "selectedText": "on our site.",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 73,
+                    "startIndexInSegment": 53,
+                    "selectedText": "information from you",
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 73,
+                    "startIndexInSegment": 42,
+                    "selectedText": "We collect information from you",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "4": [
+        {
+            "id": "7747",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3707",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": 199,
+                    "startIndexInSegment": 42,
+                    "selectedText": "We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication",
+                    "value": "Explicit"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 13,
+                    "startIndexInSegment": 10,
+                    "selectedText": "use",
+                    "value": "Use"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 199,
+                    "startIndexInSegment": 42,
+                    "selectedText": "We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 68,
+                    "startIndexInSegment": 57,
+                    "selectedText": "information",
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": 200,
+                    "startIndexInSegment": 42,
+                    "selectedText": "We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication,",
+                    "value": "Dont use service/feature"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 52,
+                    "startIndexInSegment": 42,
+                    "selectedText": "We may use",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 334,
+                    "startIndexInSegment": 297,
+                    "selectedText": "To quickly process your transactions.",
+                    "value": "Basic service/feature"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "7748",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3707",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": 276,
+                    "startIndexInSegment": 201,
+                    "selectedText": "surf the website, or use certain other site features in the following ways:",
+                    "value": "Implicit"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 13,
+                    "startIndexInSegment": 10,
+                    "selectedText": "use",
+                    "value": "Use"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 199,
+                    "startIndexInSegment": 42,
+                    "selectedText": "We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 68,
+                    "startIndexInSegment": 57,
+                    "selectedText": "information",
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": 200,
+                    "startIndexInSegment": 42,
+                    "selectedText": "We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication,",
+                    "value": "Dont use service/feature"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 52,
+                    "startIndexInSegment": 42,
+                    "selectedText": "We may use",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 334,
+                    "startIndexInSegment": 297,
+                    "selectedText": "To quickly process your transactions.",
+                    "value": "Basic service/feature"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "8760",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3707",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 253,
+                    "startIndexInSegment": 94,
+                    "selectedText": "you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 334,
+                    "startIndexInSegment": 297,
+                    "selectedText": "To quickly process your transactions.",
+                    "value": "Additional service/feature"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23731",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": 88,
+                    "startIndexInSegment": 69,
+                    "selectedText": "we collect from you",
+                    "value": "Unspecified"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 217,
+                    "startIndexInSegment": 206,
+                    "selectedText": "the website",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 68,
+                    "startIndexInSegment": 53,
+                    "selectedText": "the information",
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 52,
+                    "startIndexInSegment": 42,
+                    "selectedText": "We may use",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 334,
+                    "startIndexInSegment": 297,
+                    "selectedText": "To quickly process your transactions.",
+                    "value": "Basic service/feature"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "5": [
+        {
+            "id": "C844",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3707",
+            "category": "Data Security",
+            "details": {
+                "Security Measure": {
+                    "endIndexInSegment": 196,
+                    "startIndexInSegment": 49,
+                    "selectedText": "Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.",
+                    "value": "Generic"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "8761",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3707",
+            "category": "Data Security",
+            "details": {
+                "Security Measure": {
+                    "endIndexInSegment": 196,
+                    "startIndexInSegment": 0,
+                    "selectedText": "How do we protect visitor information? Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.",
+                    "value": "Generic"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "6": [
+        {
+            "id": "C845",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "Data Security",
+            "details": {
+                "Security Measure": {
+                    "endIndexInSegment": 331,
+                    "startIndexInSegment": 220,
+                    "selectedText": "In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.",
+                    "value": "Secure data transfer"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "C846",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3707",
+            "category": "Data Security",
+            "details": {
+                "Security Measure": {
+                    "endIndexInSegment": 62,
+                    "startIndexInSegment": 0,
+                    "selectedText": "Your personal information is contained behind secured networks",
+                    "value": "Secure data storage"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "7751",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3707",
+            "category": "Data Security",
+            "details": {
+                "Security Measure": {
+                    "endIndexInSegment": 219,
+                    "startIndexInSegment": 75,
+                    "selectedText": "accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential.",
+                    "value": "Data access limitation"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "7752",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3707",
+            "category": "Data Security",
+            "details": {
+                "Security Measure": {
+                    "endIndexInSegment": 331,
+                    "startIndexInSegment": 233,
+                    "selectedText": "all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.",
+                    "value": "Secure data transfer"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "8762",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3707",
+            "category": "Data Security",
+            "details": {
+                "Security Measure": {
+                    "endIndexInSegment": 219,
+                    "startIndexInSegment": 0,
+                    "selectedText": "Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential.",
+                    "value": "Data access limitation"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23733",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "Data Security",
+            "details": {
+                "Security Measure": {
+                    "endIndexInSegment": 219,
+                    "startIndexInSegment": 67,
+                    "selectedText": "is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential.",
+                    "value": "Data access limitation"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "7": [
+        {
+            "id": "C847",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "Data Security",
+            "details": {
+                "Security Measure": {
+                    "endIndexInSegment": 143,
+                    "startIndexInSegment": 0,
+                    "selectedText": "We implement a variety of security measures enters, submits, or accesses their information to maintain the safety of your personal information.",
+                    "value": "Generic"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "8": [
+        {
+            "id": "C848",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "Data Security",
+            "details": {
+                "Security Measure": {
+                    "endIndexInSegment": 105,
+                    "startIndexInSegment": 0,
+                    "selectedText": "All transactions are processed through a gateway provider and are not stored or processed on our servers.",
+                    "value": "Generic"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "9": [
+        {
+            "id": "7755",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3707",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 553,
+                    "startIndexInSegment": 0,
+                    "selectedText": "Do we use 'cookies'? Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services.",
+                    "value": "Introductory/Generic"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "7756",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3707",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": 717,
+                    "startIndexInSegment": 554,
+                    "selectedText": "We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.",
+                    "value": "Implicit"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 414,
+                    "startIndexInSegment": 410,
+                    "selectedText": "used",
+                    "value": "Use"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 553,
+                    "startIndexInSegment": 396,
+                    "selectedText": "They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services.",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 301,
+                    "startIndexInSegment": 233,
+                    "selectedText": "recognize your browser and capture and remember certain information.",
+                    "value": "Computer information"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": 175,
+                    "startIndexInSegment": 149,
+                    "selectedText": "Web browser (if you allow)",
+                    "value": "Browser/device privacy controls"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 573,
+                    "startIndexInSegment": 554,
+                    "selectedText": "We also use cookies",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 394,
+                    "startIndexInSegment": 342,
+                    "selectedText": "remember and process the items in your shopping cart",
+                    "value": "Basic service/feature"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "8766",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3707",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 231,
+                    "startIndexInSegment": 35,
+                    "selectedText": "Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems t",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 301,
+                    "startIndexInSegment": 0,
+                    "selectedText": "Do we use 'cookies'? Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information.",
+                    "value": "Cookies and tracking elements"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 717,
+                    "startIndexInSegment": 316,
+                    "selectedText": "we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.",
+                    "value": "Analytics/Research"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23738",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 301,
+                    "startIndexInSegment": 230,
+                    "selectedText": "to recognize your browser and capture and remember certain information.",
+                    "value": "Both"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 199,
+                    "startIndexInSegment": 189,
+                    "selectedText": "the site's",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 43,
+                    "startIndexInSegment": 36,
+                    "selectedText": "Cookies",
+                    "value": "Cookies and tracking elements"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": 175,
+                    "startIndexInSegment": 136,
+                    "selectedText": "through your Web browser (if you allow)",
+                    "value": "Browser/device privacy controls"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 607,
+                    "startIndexInSegment": 593,
+                    "selectedText": "aggregate data",
+                    "value": "Aggregated or anonymized"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 25,
+                    "startIndexInSegment": 0,
+                    "selectedText": "Do we use 'cookies'? <br>",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 395,
+                    "startIndexInSegment": 316,
+                    "selectedText": "we use cookies to help us remember and process the items in your shopping cart.",
+                    "value": "Basic service/feature"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23739",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 301,
+                    "startIndexInSegment": 230,
+                    "selectedText": "to recognize your browser and capture and remember certain information.",
+                    "value": "Both"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 199,
+                    "startIndexInSegment": 189,
+                    "selectedText": "the site's",
+                    "value": "Collect on website"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 43,
+                    "startIndexInSegment": 36,
+                    "selectedText": "Cookies",
+                    "value": "Cookies and tracking elements"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": 175,
+                    "startIndexInSegment": 136,
+                    "selectedText": "through your Web browser (if you allow)",
+                    "value": "Browser/device privacy controls"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 607,
+                    "startIndexInSegment": 593,
+                    "selectedText": "aggregate data",
+                    "value": "Aggregated or anonymized"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 25,
+                    "startIndexInSegment": 0,
+                    "selectedText": "Do we use 'cookies'? <br>",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 717,
+                    "startIndexInSegment": 396,
+                    "selectedText": "They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.",
+                    "value": "Analytics/Research"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "10": [
+        {
+            "id": "C849",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3707",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 17,
+                    "startIndexInSegment": 0,
+                    "selectedText": "We use cookies to",
+                    "value": "Cookies and tracking elements"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 96,
+                    "startIndexInSegment": 39,
+                    "selectedText": "Help remember and process the items in the shopping cart.",
+                    "value": "Additional service/feature"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23740",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 14,
+                    "startIndexInSegment": 7,
+                    "selectedText": "cookies",
+                    "value": "Cookies and tracking elements"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 6,
+                    "startIndexInSegment": 0,
+                    "selectedText": "We use",
+                    "value": "Does"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 96,
+                    "startIndexInSegment": 39,
+                    "selectedText": "Help remember and process the items in the shopping cart.",
+                    "value": "Basic service/feature"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "11": [
+        {
+            "id": "7758",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3707",
+            "category": "User Choice/Control",
+            "details": {
+                "Choice Type": {
+                    "endIndexInSegment": 190,
+                    "startIndexInSegment": 0,
+                    "selectedText": "You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings.",
+                    "value": "Browser/device privacy controls"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 121,
+                    "startIndexInSegment": 0,
+                    "selectedText": "You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies",
+                    "value": "First party use"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "8768",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3707",
+            "category": "User Choice/Control",
+            "details": {
+                "Choice Type": {
+                    "endIndexInSegment": 311,
+                    "startIndexInSegment": 0,
+                    "selectedText": "You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.",
+                    "value": "Browser/device privacy controls"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Purpose": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 311,
+                    "startIndexInSegment": 298,
+                    "selectedText": "your cookies.",
+                    "value": "Cookies and tracking elements"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23741",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "User Choice/Control",
+            "details": {
+                "Choice Type": {
+                    "endIndexInSegment": 190,
+                    "startIndexInSegment": 0,
+                    "selectedText": "You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings.",
+                    "value": "Browser/device privacy controls"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 79,
+                    "startIndexInSegment": 56,
+                    "selectedText": "a cookie is being sent,",
+                    "value": "First party collection"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 64,
+                    "startIndexInSegment": 58,
+                    "selectedText": "cookie",
+                    "value": "Cookies and tracking elements"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "12": [
+        {
+            "id": "C850",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3707",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 285,
+                    "startIndexInSegment": 0,
+                    "selectedText": "If users disable cookies in their browser: If you disable cookies off, some features will be disabled It will turn off some of the features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders.",
+                    "value": "Other"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23742",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "User Choice/Control",
+            "details": {
+                "Choice Type": {
+                    "endIndexInSegment": 42,
+                    "startIndexInSegment": 0,
+                    "selectedText": "If users disable cookies in their browser:",
+                    "value": "Browser/device privacy controls"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 149,
+                    "startIndexInSegment": 129,
+                    "selectedText": "some of the features",
+                    "value": "Unspecified"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 248,
+                    "startIndexInSegment": 141,
+                    "selectedText": "features that make your site experience more efficient and some of our services will not function properly.",
+                    "value": "Basic service/feature"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 75,
+                    "startIndexInSegment": 68,
+                    "selectedText": "cookies",
+                    "value": "Cookies and tracking elements"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "13": [
+        {
+            "id": "7760",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3707",
+            "category": "Third Party Sharing/Collection",
+            "details": {
+                "Third Party Entity": {
+                    "endIndexInSegment": 96,
+                    "startIndexInSegment": 81,
+                    "selectedText": "outside parties",
+                    "value": "Unspecified"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 138,
+                    "startIndexInSegment": 102,
+                    "selectedText": "personally identifiable information.",
+                    "value": "Generic personal information"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 138,
+                    "startIndexInSegment": 102,
+                    "selectedText": "personally identifiable information.",
+                    "value": "Identifiable"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 42,
+                    "startIndexInSegment": 33,
+                    "selectedText": "We do not",
+                    "value": "Does Not"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action Third Party": {
+                    "endIndexInSegment": 68,
+                    "startIndexInSegment": 43,
+                    "selectedText": "sell, trade, or otherwise",
+                    "value": "Other"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "8770",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3707",
+            "category": "Third Party Sharing/Collection",
+            "details": {
+                "Third Party Entity": {
+                    "endIndexInSegment": 96,
+                    "startIndexInSegment": 78,
+                    "selectedText": "to outside parties",
+                    "value": "Unnamed third party"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Purpose": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 138,
+                    "startIndexInSegment": 102,
+                    "selectedText": "personally identifiable information.",
+                    "value": "Generic personal information"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 125,
+                    "startIndexInSegment": 102,
+                    "selectedText": "personally identifiable",
+                    "value": "Identifiable"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 77,
+                    "startIndexInSegment": 0,
+                    "selectedText": "Third Party Disclosure We do not sell, trade, or otherwise transfer",
+                    "value": "Does Not"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Action Third Party": {
+                    "endIndexInSegment": 77,
+                    "startIndexInSegment": 43,
+                    "selectedText": "sell, trade, or otherwise transfer",
+                    "value": "Receive/Shared with"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23743",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "Third Party Sharing/Collection",
+            "details": {
+                "Third Party Entity": {
+                    "endIndexInSegment": 96,
+                    "startIndexInSegment": 81,
+                    "selectedText": "outside parties",
+                    "value": "Unnamed third party"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 137,
+                    "startIndexInSegment": 102,
+                    "selectedText": "personally identifiable information",
+                    "value": "Generic personal information"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": 137,
+                    "startIndexInSegment": 102,
+                    "selectedText": "personally identifiable information",
+                    "value": "Identifiable"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 42,
+                    "startIndexInSegment": 33,
+                    "selectedText": "We do not",
+                    "value": "Does Not"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action Third Party": {
+                    "endIndexInSegment": 77,
+                    "startIndexInSegment": 43,
+                    "selectedText": "sell, trade, or otherwise transfer",
+                    "value": "Receive/Shared with"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "14": [
+        {
+            "id": "7761",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3707",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 103,
+                    "startIndexInSegment": 0,
+                    "selectedText": "Third party links We do not include or offer third party products or services on our website.",
+                    "value": "Introductory/Generic"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "8771",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3707",
+            "category": "Third Party Sharing/Collection",
+            "details": {
+                "Third Party Entity": {
+                    "endIndexInSegment": 66,
+                    "startIndexInSegment": 55,
+                    "selectedText": "third party",
+                    "value": "Unnamed third party"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Purpose": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 37,
+                    "startIndexInSegment": 31,
+                    "selectedText": "do not",
+                    "value": "Does Not"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Action Third Party": {
+                    "endIndexInSegment": 103,
+                    "startIndexInSegment": 38,
+                    "selectedText": "include or offer third party products or services on our website.",
+                    "value": "Other"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23744",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 103,
+                    "startIndexInSegment": 28,
+                    "selectedText": "We do not include or offer third party products or services on our website.",
+                    "value": "Other"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "15": [
+        {
+            "id": "C851",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3707",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 231,
+                    "startIndexInSegment": 11,
+                    "selectedText": "<br> Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en",
+                    "value": "Introductory/Generic"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23745",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 231,
+                    "startIndexInSegment": 17,
+                    "selectedText": "Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en",
+                    "value": "Other"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "16": [
+        {
+            "id": "C852",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 78,
+                    "startIndexInSegment": 0,
+                    "selectedText": "We have not enabled Google AdSense on our site but we may do so in the future.",
+                    "value": "Other"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "8774",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3707",
+            "category": "First Party Collection/Use",
+            "details": {
+                "Collection Mode": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Action First-Party": {
+                    "endIndexInSegment": 78,
+                    "startIndexInSegment": 12,
+                    "selectedText": "enabled Google AdSense on our site but we may do so in the future.",
+                    "value": "Other"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": 78,
+                    "startIndexInSegment": 47,
+                    "selectedText": "but we may do so in the future.",
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 19,
+                    "startIndexInSegment": 0,
+                    "selectedText": "We have not enabled",
+                    "value": "Does Not"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "not-selected"
+                },
+                "Purpose": {
+                    "endIndexInSegment": 34,
+                    "startIndexInSegment": 27,
+                    "selectedText": "AdSense",
+                    "value": "Advertising"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "17": [
+        {
+            "id": "C853",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3707",
+            "category": "International and Specific Audiences",
+            "details": {
+                "Audience Type": {
+                    "endIndexInSegment": 689,
+                    "startIndexInSegment": 0,
+                    "selectedText": "California Online Privacy Protection Act CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/sthash.0FdRbT51.dpuf",
+                    "value": "Californians"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23755",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "International and Specific Audiences",
+            "details": {
+                "Audience Type": {
+                    "endIndexInSegment": 689,
+                    "startIndexInSegment": 51,
+                    "selectedText": "CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/sthash.0FdRbT51.dpuf",
+                    "value": "Californians"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "18": [
+        {
+            "id": "C854",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3707",
+            "category": "International and Specific Audiences",
+            "details": {
+                "Audience Type": {
+                    "endIndexInSegment": 47,
+                    "startIndexInSegment": 0,
+                    "selectedText": "According to CalOPPA we agree to the following:",
+                    "value": "Californians"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23756",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 47,
+                    "startIndexInSegment": 0,
+                    "selectedText": "According to CalOPPA we agree to the following:",
+                    "value": "Introductory/Generic"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "19": [
+        {
+            "id": "7766",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3707",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 36,
+                    "startIndexInSegment": 0,
+                    "selectedText": "Users can visit our site anonymously",
+                    "value": "Other"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "8776",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3707",
+            "category": "Data Security",
+            "details": {
+                "Security Measure": {
+                    "endIndexInSegment": 36,
+                    "startIndexInSegment": 0,
+                    "selectedText": "Users can visit our site anonymously",
+                    "value": "Generic"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23757",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "International and Specific Audiences",
+            "details": {
+                "Audience Type": {
+                    "endIndexInSegment": 36,
+                    "startIndexInSegment": 0,
+                    "selectedText": "Users can visit our site anonymously",
+                    "value": "Californians"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "20": [
+        {
+            "id": "C855",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3707",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 153,
+                    "startIndexInSegment": 0,
+                    "selectedText": "Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.",
+                    "value": "Other"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "8777",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3707",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 152,
+                    "startIndexInSegment": 0,
+                    "selectedText": "Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website",
+                    "value": "Introductory/Generic"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "21": [
+        {
+            "id": "C856",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 108,
+                    "startIndexInSegment": 0,
+                    "selectedText": "Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.",
+                    "value": "Other"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "22": [
+        {
+            "id": "7769",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3707",
+            "category": "Policy Change",
+            "details": {
+                "Change Type": {
+                    "endIndexInSegment": 53,
+                    "startIndexInSegment": 30,
+                    "selectedText": "privacy policy changes:",
+                    "value": "Privacy relevant change"
+                },
+                "User Choice": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Notification Type": {
+                    "endIndexInSegment": 100,
+                    "startIndexInSegment": 0,
+                    "selectedText": "Users will be notified of any privacy policy changes: On our Privacy Policy Page",
+                    "value": "General notice in privacy policy"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "8779",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3707",
+            "category": "Policy Change",
+            "details": {
+                "Change Type": {
+                    "endIndexInSegment": 53,
+                    "startIndexInSegment": 26,
+                    "selectedText": "any privacy policy changes:",
+                    "value": "Other"
+                },
+                "User Choice": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Notification Type": {
+                    "endIndexInSegment": 100,
+                    "startIndexInSegment": 74,
+                    "selectedText": "On our Privacy Policy Page",
+                    "value": "General notice in privacy policy"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23760",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "Policy Change",
+            "details": {
+                "Change Type": {
+                    "endIndexInSegment": 53,
+                    "startIndexInSegment": 23,
+                    "selectedText": "of any privacy policy changes:",
+                    "value": "Non-privacy relevant change"
+                },
+                "User Choice": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Notification Type": {
+                    "endIndexInSegment": 100,
+                    "startIndexInSegment": 74,
+                    "selectedText": "On our Privacy Policy Page",
+                    "value": "General notice in privacy policy"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "23": [
+        {
+            "id": "C857",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "User Access, Edit and Deletion",
+            "details": {
+                "Access Type": {
+                    "endIndexInSegment": 52,
+                    "startIndexInSegment": 0,
+                    "selectedText": "Users are able to change their personal information:",
+                    "value": "Edit information"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Access Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "7770",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3707",
+            "category": "User Access, Edit and Deletion",
+            "details": {
+                "Access Type": {
+                    "endIndexInSegment": 51,
+                    "startIndexInSegment": 18,
+                    "selectedText": "change their personal information",
+                    "value": "Edit information"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Access Scope": {
+                    "endIndexInSegment": 51,
+                    "startIndexInSegment": 31,
+                    "selectedText": "personal information",
+                    "value": "User account data"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "8782",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3707",
+            "category": "User Choice/Control",
+            "details": {
+                "Choice Type": {
+                    "endIndexInSegment": 176,
+                    "startIndexInSegment": 73,
+                    "selectedText": "By emailing us By calling us By logging in to their account",
+                    "value": "Opt-out via contacting company"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": 52,
+                    "startIndexInSegment": 0,
+                    "selectedText": "Users are able to change their personal information:",
+                    "value": "First party collection"
+                },
+                "User Type": {
+                    "endIndexInSegment": 176,
+                    "startIndexInSegment": 163,
+                    "selectedText": "their account",
+                    "value": "User with account"
+                },
+                "Purpose": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 52,
+                    "startIndexInSegment": 25,
+                    "selectedText": "their personal information:",
+                    "value": "Generic personal information"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23762",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "User Access, Edit and Deletion",
+            "details": {
+                "Access Type": {
+                    "endIndexInSegment": 52,
+                    "startIndexInSegment": 0,
+                    "selectedText": "Users are able to change their personal information:",
+                    "value": "Edit information"
+                },
+                "User Type": {
+                    "endIndexInSegment": 176,
+                    "startIndexInSegment": 146,
+                    "selectedText": "By logging in to their account",
+                    "value": "User with account"
+                },
+                "Access Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "24": [
+        {
+            "id": "C858",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3707",
+            "category": "Do Not Track",
+            "details": {
+                "Do Not Track policy": {
+                    "endIndexInSegment": 195,
+                    "startIndexInSegment": 57,
+                    "selectedText": "We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.",
+                    "value": "Honored"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "8783",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3707",
+            "category": "Do Not Track",
+            "details": {
+                "Do Not Track policy": {
+                    "endIndexInSegment": 195,
+                    "startIndexInSegment": 0,
+                    "selectedText": "How does our site handle do not track signals? We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.",
+                    "value": "Honored"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "25": [
+        {
+            "id": "C859",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "Third Party Sharing/Collection",
+            "details": {
+                "Third Party Entity": {
+                    "endIndexInSegment": 31,
+                    "startIndexInSegment": 20,
+                    "selectedText": "third party",
+                    "value": "Unnamed third party"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": 51,
+                    "startIndexInSegment": 32,
+                    "selectedText": "behavioral tracking",
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 111,
+                    "startIndexInSegment": 96,
+                    "selectedText": "we do not allow",
+                    "value": "Does Not"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action Third Party": {
+                    "endIndexInSegment": 51,
+                    "startIndexInSegment": 32,
+                    "selectedText": "behavioral tracking",
+                    "value": "Track on first party website/app"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "7772",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3707",
+            "category": "Third Party Sharing/Collection",
+            "details": {
+                "Third Party Entity": {
+                    "endIndexInSegment": 31,
+                    "startIndexInSegment": 20,
+                    "selectedText": "third party",
+                    "value": "Unnamed third party"
+                },
+                "Choice Scope": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Purpose": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Personal Information Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Choice Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Identifiability": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Does/Does Not": {
+                    "endIndexInSegment": 111,
+                    "startIndexInSegment": 96,
+                    "selectedText": "we do not allow",
+                    "value": "Does Not"
+                },
+                "User Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Action Third Party": {
+                    "endIndexInSegment": 51,
+                    "startIndexInSegment": 20,
+                    "selectedText": "third party behavioral tracking",
+                    "value": "Track on first party website/app"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "26": [
+        {
+            "id": "C860",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3707",
+            "category": "International and Specific Audiences",
+            "details": {
+                "Audience Type": {
+                    "endIndexInSegment": 431,
+                    "startIndexInSegment": 0,
+                    "selectedText": "COPPA (Children Online Privacy Protection Act) When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.",
+                    "value": "Children"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23766",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "International and Specific Audiences",
+            "details": {
+                "Audience Type": {
+                    "endIndexInSegment": 431,
+                    "startIndexInSegment": 57,
+                    "selectedText": "When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.",
+                    "value": "Children"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "27": [
+        {
+            "id": "C861",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "International and Specific Audiences",
+            "details": {
+                "Audience Type": {
+                    "endIndexInSegment": 51,
+                    "startIndexInSegment": 0,
+                    "selectedText": "We do not specifically market to children under 13.",
+                    "value": "Children"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "28": [
+        {
+            "id": "C862",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3707",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 431,
+                    "startIndexInSegment": 0,
+                    "selectedText": "Fair Information Practices The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.",
+                    "value": "Introductory/Generic"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23768",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 431,
+                    "startIndexInSegment": 37,
+                    "selectedText": "The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.",
+                    "value": "Introductory/Generic"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "29": [
+        {
+            "id": "C863",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "Data Security",
+            "details": {
+                "Security Measure": {
+                    "endIndexInSegment": 128,
+                    "startIndexInSegment": 0,
+                    "selectedText": "In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:",
+                    "value": "Generic"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "7776",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3707",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 128,
+                    "startIndexInSegment": 0,
+                    "selectedText": "In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:",
+                    "value": "Introductory/Generic"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "30": [
+        {
+            "id": "7777",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3707",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 77,
+                    "startIndexInSegment": 0,
+                    "selectedText": "We will notify the users via email Within 7 business days",
+                    "value": "Other"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "8789",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3707",
+            "category": "Data Security",
+            "details": {
+                "Security Measure": {
+                    "endIndexInSegment": 77,
+                    "startIndexInSegment": 0,
+                    "selectedText": "We will notify the users via email Within 7 business days",
+                    "value": "Privacy/Security program"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23770",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "Data Security",
+            "details": {
+                "Security Measure": {
+                    "endIndexInSegment": 34,
+                    "startIndexInSegment": 0,
+                    "selectedText": "We will notify the users via email",
+                    "value": "Other"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "31": [
+        {
+            "id": "7778",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3707",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 92,
+                    "startIndexInSegment": 0,
+                    "selectedText": "We will notify the users via in site notification Within 7 business days",
+                    "value": "Other"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "23771",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "Data Security",
+            "details": {
+                "Security Measure": {
+                    "endIndexInSegment": 49,
+                    "startIndexInSegment": 0,
+                    "selectedText": "We will notify the users via in site notification",
+                    "value": "Other"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "32": [
+        {
+            "id": "C864",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "123",
+            "end_index": "3707",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 436,
+                    "startIndexInSegment": 0,
+                    "selectedText": "We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.",
+                    "value": "Practice not covered"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "8790",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3707",
+            "category": "Data Security",
+            "details": {
+                "Security Measure": {
+                    "endIndexInSegment": 436,
+                    "startIndexInSegment": 0,
+                    "selectedText": "We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.",
+                    "value": "Privacy/Security program"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ],
+    "33": [
+        {
+            "id": "C865",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "95",
+            "end_index": "3707",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 300,
+                    "startIndexInSegment": 0,
+                    "selectedText": "Contacting Us If there are any questions regarding this privacy policy you may contact us using the information below. 204 E. 5th Street South Pittsburg, TN 37380 United States info@lodgemfg.com 423.837.7181 Last Edited on 10/2014",
+                    "value": "Privacy contact information"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "8791",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3707",
+            "category": "Other",
+            "details": {
+                "Other Type": {
+                    "endIndexInSegment": 267,
+                    "startIndexInSegment": 0,
+                    "selectedText": "Contacting Us If there are any questions regarding this privacy policy you may contact us using the information below. 204 E. 5th Street South Pittsburg, TN 37380 United States info@lodgemfg.com 423.837.7181",
+                    "value": "Privacy contact information"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        },
+        {
+            "id": "8792",
+            "label": "test_category_labeling_highlight_upitt",
+            "start_index": "103",
+            "end_index": "3707",
+            "category": "Policy Change",
+            "details": {
+                "Change Type": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "User Choice": {
+                    "endIndexInSegment": -1,
+                    "startIndexInSegment": -1,
+                    "value": "Unspecified"
+                },
+                "Notification Type": {
+                    "endIndexInSegment": 300,
+                    "startIndexInSegment": 278,
+                    "selectedText": "Last Edited on 10/2014",
+                    "value": "General notice in privacy policy"
+                }
+            },
+            "date": "10/1/14",
+            "url": "https://www.lodgemfg.com/page.asp?p_key=0A23CFF9980440FC8D283BC55A36328C"
+        }
+    ]
+}

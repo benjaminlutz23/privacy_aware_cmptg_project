@@ -4,7 +4,7 @@ from collections import defaultdict
 
 # Define file paths
 csv_file_path = '../data/opp-115-dataset/consolidation/threshold-1.0-overlap-similarity/20_theatlantic.com.csv'
-json_file_path = '../data/benchmark/key.json'
+json_file_path = '../data/benchmark/benchmark.json'
 
 # Initialize a dictionary to hold the JSON structure
 data = defaultdict(list)

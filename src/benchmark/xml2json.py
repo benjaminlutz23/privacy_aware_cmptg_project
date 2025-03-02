@@ -52,7 +52,6 @@ def xml_to_json(xml_file_path, json_output_path=None):
     for category_elem in root.findall('category'):
         category = {
             'name': category_elem.find('name').text,
-            'description': category_elem.find('description').text,
             'attributes': []
         }
         
@@ -62,7 +61,6 @@ def xml_to_json(xml_file_path, json_output_path=None):
             for attr_elem in attributes_elem.findall('attribute'):
                 attribute = {
                     'name': attr_elem.find('name').text,
-                    'description': attr_elem.find('description').text,
                     'values': []
                 }
                 
@@ -71,8 +69,6 @@ def xml_to_json(xml_file_path, json_output_path=None):
                     attribute['optional'] = attr_elem.attrib['optional'] == 'true'
                 if 'default' in attr_elem.attrib:
                     attribute['default'] = attr_elem.attrib['default']
-                if 'color' in attr_elem.attrib:
-                    attribute['color'] = attr_elem.attrib['color']
                 
                 # Process values for this attribute
                 values_elem = attr_elem.find('values')
@@ -80,7 +76,6 @@ def xml_to_json(xml_file_path, json_output_path=None):
                     for value_elem in values_elem.findall('value'):
                         value = {
                             'name': value_elem.find('name').text,
-                            'description': value_elem.find('description').text
                         }
                         attribute['values'].append(value)
                 

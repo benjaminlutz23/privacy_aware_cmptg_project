@@ -1342,7 +1342,7 @@
             {
               "name": "Children",
               "icon": "Children Privacy",
-              "color": "Red"
+              "color": "Gray"
             },
             {
               "name": "Other",

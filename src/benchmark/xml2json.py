@@ -113,7 +113,7 @@ if __name__ == "__main__":
     
     # Define paths using os.path.join for better cross-platform compatibility
     xml_path = os.path.abspath(os.path.join(current_dir, "..", "data", "opp-115-dataset", "documentation", "categories-july30.xml"))
-    json_path  = os.path.abspath(os.path.join(current_dir, "..", "data", "benchmark", "annotation_categories.json"))
+    json_path  = os.path.abspath(os.path.join(current_dir, "..", "data", "benchmark", "annotation_to_icon_mappings.json"))
     
     print(f"XML path: {xml_path}")
     print(f"JSON path: {json_path}")

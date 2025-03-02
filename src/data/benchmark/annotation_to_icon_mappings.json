@@ -161,7 +161,7 @@
             {
               "name": "Opt-out link",
               "icon": "Do Not Track",
-              "color": "Yellow"
+              "color": "White"
             }
           ],
           "optional": true,
@@ -500,32 +500,32 @@
             {
               "name": "Opt-out link",
               "icon": "Do Not Track",
-              "color": "Yellow"
+              "color": "White"
             },
             {
               "name": "Opt-out via contacting company",
               "icon": "Do Not Track",
-              "color": "Yellow"
+              "color": "White"
             },
             {
               "name": "First-party privacy controls",
               "icon": "Do Not Track",
-              "color": "Yellow"
+              "color": "White"
             },
             {
               "name": "Third-party privacy controls",
               "icon": "Do Not Track",
-              "color": "Yellow"
+              "color": "White"
             },
             {
               "name": "Browser/device privacy controls",
               "icon": "Do Not Track",
-              "color": "Yellow"
+              "color": "White"
             },
             {
               "name": "Other",
               "icon": "Do Not Track",
-              "color": "Yellow"
+              "color": "White"
             },
             {
               "name": "Unspecified",
@@ -584,32 +584,32 @@
             {
               "name": "Opt-out link",
               "icon": "Do Not Track",
-              "color": "Yellow"
+              "color": "White"
             },
             {
               "name": "Opt-out via contacting company",
               "icon": "Do Not Track",
-              "color": "Yellow"
+              "color": "White"
             },
             {
               "name": "First-party privacy controls",
               "icon": "Do Not Track",
-              "color": "Yellow"
+              "color": "White"
             },
             {
               "name": "Third-party privacy controls",
               "icon": "Do Not Track",
-              "color": "Yellow"
+              "color": "White"
             },
             {
               "name": "Browser/device privacy controls",
               "icon": "Do Not Track",
-              "color": "Yellow"
+              "color": "White"
             },
             {
               "name": "Other",
               "icon": "Do Not Track",
-              "color": "Yellow"
+              "color": "White"
             },
             {
               "name": "Unspecified",
@@ -1255,7 +1255,7 @@
             {
               "name": "Opt-out",
               "icon": "Do Not Track",
-              "color": "Yellow"
+              "color": "White"
             },
             {
               "name": "Opt-in",
@@ -1270,7 +1270,7 @@
             {
               "name": "Other",
               "icon": "Do Not Track",
-              "color": "Yellow"
+              "color": "White"
             },
             {
               "name": "Unspecified",
@@ -1306,12 +1306,12 @@
             {
               "name": "Mentioned, but unclear if honored",
               "icon": "Do Not Track",
-              "color": "Yellow"
+              "color": "White"
             },
             {
               "name": "Other",
               "icon": "Do Not Track",
-              "color": "Yellow"
+              "color": "White"
             }
           ],
           "optional": false

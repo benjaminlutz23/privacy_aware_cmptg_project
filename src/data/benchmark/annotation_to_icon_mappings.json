@@ -8,10 +8,14 @@
           "name": "Does/Does Not",
           "values": [
             {
-              "name": "Does"
+              "name": "Does",
+              "icon": "Expected Collection",
+              "color": "Green"
             },
             {
-              "name": "Does Not"
+              "name": "Does Not",
+              "icon": "Expected Collection",
+              "color": "Green"
             }
           ],
           "optional": true,
@@ -21,13 +25,19 @@
           "name": "Collection Mode",
           "values": [
             {
-              "name": "Explicit"
+              "name": "Explicit",
+              "icon": "Expected Collection",
+              "color": "Green"
             },
             {
-              "name": "Implicit"
+              "name": "Implicit",
+              "icon": "Expected Collection",
+              "color": "Yellow"
             },
             {
-              "name": "Unspecified"
+              "name": "Unspecified",
+              "icon": "Expected Collection",
+              "color": "Red"
             }
           ],
           "optional": true,
@@ -37,34 +47,19 @@
           "name": "Action First-Party",
           "values": [
             {
-              "name": "Collect on website"
+              "name": "Collect on website",
+              "icon": "Expected Collection",
+              "color": "Green"
             },
             {
-              "name": "Collect in mobile app"
+              "name": "Track user on other websites",
+              "icon": "Do Not Track",
+              "color": "Red"
             },
             {
-              "name": "Collect on mobile website"
-            },
-            {
-              "name": "Track user on other websites"
-            },
-            {
-              "name": "Collect from user on other websites"
-            },
-            {
-              "name": "Receive from other parts of company/affiliates"
-            },
-            {
-              "name": "Receive from other service/third-party (unnamed)"
-            },
-            {
-              "name": "Receive from other service/third-party (named)"
-            },
-            {
-              "name": "Other"
-            },
-            {
-              "name": "Unspecified"
+              "name": "Collect from user on other websites",
+              "icon": "Expected Collection",
+              "color": "Yellow"
             }
           ],
           "optional": false
@@ -73,16 +68,19 @@
           "name": "Identifiability",
           "values": [
             {
-              "name": "Identifiable"
+              "name": "Identifiable",
+              "icon": "Data Retention",
+              "color": "Red"
             },
             {
-              "name": "Aggregated or anonymized"
+              "name": "Aggregated or anonymized",
+              "icon": "Data Retention",
+              "color": "Green"
             },
             {
-              "name": "Other"
-            },
-            {
-              "name": "Unspecified"
+              "name": "Unspecified",
+              "icon": "Data Retention",
+              "color": "Yellow"
             }
           ],
           "optional": true,
@@ -92,52 +90,19 @@
           "name": "Personal Information Type",
           "values": [
             {
-              "name": "Financial"
+              "name": "Location",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Health"
+              "name": "IP address and device IDs",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Contact"
-            },
-            {
-              "name": "Location"
-            },
-            {
-              "name": "Demographic"
-            },
-            {
-              "name": "Personal identifier"
-            },
-            {
-              "name": "User online activities"
-            },
-            {
-              "name": "User profile"
-            },
-            {
-              "name": "Social media data"
-            },
-            {
-              "name": "IP address and device IDs"
-            },
-            {
-              "name": "Cookies and tracking elements"
-            },
-            {
-              "name": "Computer information"
-            },
-            {
-              "name": "Survey data"
-            },
-            {
-              "name": "Generic personal information"
-            },
-            {
-              "name": "Other"
-            },
-            {
-              "name": "Unspecified"
+              "name": "Cookies and tracking elements",
+              "icon": "Do Not Track",
+              "color": "Red"
             }
           ],
           "optional": false
@@ -146,37 +111,19 @@
           "name": "Purpose",
           "values": [
             {
-              "name": "Basic service/feature"
+              "name": "Basic service/feature",
+              "icon": "Expected Use",
+              "color": "Green"
             },
             {
-              "name": "Additional service/feature"
+              "name": "Advertising",
+              "icon": "Expected Use",
+              "color": "Red"
             },
             {
-              "name": "Advertising"
-            },
-            {
-              "name": "Marketing"
-            },
-            {
-              "name": "Analytics/Research"
-            },
-            {
-              "name": "Personalization/Customization"
-            },
-            {
-              "name": "Service Operation and Security"
-            },
-            {
-              "name": "Legal requirement"
-            },
-            {
-              "name": "Merger/Acquisition"
-            },
-            {
-              "name": "Other"
-            },
-            {
-              "name": "Unspecified"
+              "name": "Analytics/Research",
+              "icon": "Expected Use",
+              "color": "Yellow"
             }
           ],
           "optional": false
@@ -185,16 +132,14 @@
           "name": "User Type",
           "values": [
             {
-              "name": "User without account"
+              "name": "User without account",
+              "icon": "Children Privacy",
+              "color": "Gray"
             },
             {
-              "name": "User with account"
-            },
-            {
-              "name": "Other"
-            },
-            {
-              "name": "Unspecified"
+              "name": "User with account",
+              "icon": "Children Privacy",
+              "color": "Green"
             }
           ],
           "optional": true,
@@ -204,31 +149,19 @@
           "name": "Choice Type",
           "values": [
             {
-              "name": "Dont use service/feature"
+              "name": "Dont use service/feature",
+              "icon": "Do Not Track",
+              "color": "Red"
             },
             {
-              "name": "Opt-in"
+              "name": "Opt-in",
+              "icon": "Do Not Track",
+              "color": "Green"
             },
             {
-              "name": "Opt-out link"
-            },
-            {
-              "name": "Opt-out via contacting company"
-            },
-            {
-              "name": "First-party privacy controls"
-            },
-            {
-              "name": "Third-party privacy controls"
-            },
-            {
-              "name": "Browser/device privacy controls"
-            },
-            {
-              "name": "Other"
-            },
-            {
-              "name": "Unspecified"
+              "name": "Opt-out link",
+              "icon": "Do Not Track",
+              "color": "Yellow"
             }
           ],
           "optional": true,
@@ -238,16 +171,19 @@
           "name": "Choice Scope",
           "values": [
             {
-              "name": "Collection"
+              "name": "Collection",
+              "icon": "Expected Collection",
+              "color": "Green"
             },
             {
-              "name": "Use"
+              "name": "Use",
+              "icon": "Expected Use",
+              "color": "Yellow"
             },
             {
-              "name": "Both"
-            },
-            {
-              "name": "Unspecified"
+              "name": "Both",
+              "icon": "Expected Use",
+              "color": "Red"
             }
           ],
           "optional": true,
@@ -262,25 +198,39 @@
           "name": "Third Party Entity",
           "values": [
             {
-              "name": "Unnamed third party"
+              "name": "Unnamed third party",
+              "icon": "Expected Collection",
+              "color": "Red"
             },
             {
-              "name": "Named third party"
+              "name": "Named third party",
+              "icon": "Expected Collection",
+              "color": "Yellow"
             },
             {
-              "name": "Other part of company/affiliate"
+              "name": "Other part of company/affiliate",
+              "icon": "Expected Collection",
+              "color": "Yellow"
             },
             {
-              "name": "Other users"
+              "name": "Other users",
+              "icon": "Expected Collection",
+              "color": "Red"
             },
             {
-              "name": "Public"
+              "name": "Public",
+              "icon": "Expected Collection",
+              "color": "Red"
             },
             {
-              "name": "Other"
+              "name": "Other",
+              "icon": "Expected Collection",
+              "color": "Yellow"
             },
             {
-              "name": "Unspecified"
+              "name": "Unspecified",
+              "icon": "Expected Collection",
+              "color": "Red"
             }
           ],
           "optional": false
@@ -289,10 +239,14 @@
           "name": "Does/Does Not",
           "values": [
             {
-              "name": "Does"
+              "name": "Does",
+              "icon": "Expected Collection",
+              "color": "Red"
             },
             {
-              "name": "Does Not"
+              "name": "Does Not",
+              "icon": "Expected Collection",
+              "color": "Green"
             }
           ],
           "optional": true,
@@ -302,22 +256,34 @@
           "name": "Action Third Party",
           "values": [
             {
-              "name": "Receive/Shared with"
+              "name": "Receive/Shared with",
+              "icon": "Expected Collection",
+              "color": "Yellow"
             },
             {
-              "name": "Collect on first party website/app"
+              "name": "Collect on first party website/app",
+              "icon": "Expected Collection",
+              "color": "Red"
             },
             {
-              "name": "Track on first party website/app"
+              "name": "Track on first party website/app",
+              "icon": "Do Not Track",
+              "color": "Red"
             },
             {
-              "name": "See"
+              "name": "See",
+              "icon": "Expected Collection",
+              "color": "Yellow"
             },
             {
-              "name": "Other"
+              "name": "Other",
+              "icon": "Expected Collection",
+              "color": "Yellow"
             },
             {
-              "name": "Unspecified"
+              "name": "Unspecified",
+              "icon": "Expected Collection",
+              "color": "Red"
             }
           ],
           "optional": false
@@ -326,16 +292,24 @@
           "name": "Identifiability",
           "values": [
             {
-              "name": "Identifiable"
+              "name": "Identifiable",
+              "icon": "Data Retention",
+              "color": "Red"
             },
             {
-              "name": "Aggregated or anonymized"
+              "name": "Aggregated or anonymized",
+              "icon": "Data Retention",
+              "color": "Green"
             },
             {
-              "name": "Other"
+              "name": "Other",
+              "icon": "Data Retention",
+              "color": "Yellow"
             },
             {
-              "name": "Unspecified"
+              "name": "Unspecified",
+              "icon": "Data Retention",
+              "color": "Yellow"
             }
           ],
           "optional": true,
@@ -345,49 +319,79 @@
           "name": "Personal Information Type",
           "values": [
             {
-              "name": "Financial"
+              "name": "Financial",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Health"
+              "name": "Health",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Contact"
+              "name": "Contact",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Location"
+              "name": "Location",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Demographic"
+              "name": "Demographic",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Personal identifier"
+              "name": "Personal identifier",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "User online activities"
+              "name": "User online activities",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "User Profile"
+              "name": "User Profile",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "IP address and device IDs"
+              "name": "IP address and device IDs",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Cookies and tracking elements"
+              "name": "Cookies and tracking elements",
+              "icon": "Do Not Track",
+              "color": "Red"
             },
             {
-              "name": "Computer information"
+              "name": "Computer information",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Survey data"
+              "name": "Survey data",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Generic personal information"
+              "name": "Generic personal information",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Other"
+              "name": "Other",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Unspecified"
+              "name": "Unspecified",
+              "icon": "Precise Location",
+              "color": "Red"
             }
           ],
           "optional": false
@@ -396,37 +400,59 @@
           "name": "Purpose",
           "values": [
             {
-              "name": "Basic service/feature"
+              "name": "Basic service/feature",
+              "icon": "Expected Use",
+              "color": "Green"
             },
             {
-              "name": "Additional service/feature"
+              "name": "Additional service/feature",
+              "icon": "Expected Use",
+              "color": "Yellow"
             },
             {
-              "name": "Advertising"
+              "name": "Advertising",
+              "icon": "Expected Use",
+              "color": "Red"
             },
             {
-              "name": "Marketing"
+              "name": "Marketing",
+              "icon": "Expected Use",
+              "color": "Yellow"
             },
             {
-              "name": "Analytics/Research"
+              "name": "Analytics/Research",
+              "icon": "Expected Use",
+              "color": "Yellow"
             },
             {
-              "name": "Personalization/Customization"
+              "name": "Personalization/Customization",
+              "icon": "Expected Use",
+              "color": "Yellow"
             },
             {
-              "name": "Service operation and security"
+              "name": "Service operation and security",
+              "icon": "Expected Use",
+              "color": "Green"
             },
             {
-              "name": "Legal requirement"
+              "name": "Legal requirement",
+              "icon": "Expected Use",
+              "color": "Green"
             },
             {
-              "name": "Merger/Acquisition"
+              "name": "Merger/Acquisition",
+              "icon": "Expected Use",
+              "color": "Yellow"
             },
             {
-              "name": "Other"
+              "name": "Other",
+              "icon": "Expected Use",
+              "color": "Yellow"
             },
             {
-              "name": "Unspecified"
+              "name": "Unspecified",
+              "icon": "Expected Use",
+              "color": "Red"
             }
           ],
           "optional": false
@@ -435,16 +461,24 @@
           "name": "User Type",
           "values": [
             {
-              "name": "User without account"
+              "name": "User without account",
+              "icon": "Children Privacy",
+              "color": "Gray"
             },
             {
-              "name": "User with account"
+              "name": "User with account",
+              "icon": "Children Privacy",
+              "color": "Green"
             },
             {
-              "name": "Other"
+              "name": "Other",
+              "icon": "Children Privacy",
+              "color": "Gray"
             },
             {
-              "name": "Unspecified"
+              "name": "Unspecified",
+              "icon": "Children Privacy",
+              "color": "Gray"
             }
           ],
           "optional": true,
@@ -454,31 +488,49 @@
           "name": "Choice Type",
           "values": [
             {
-              "name": "Dont use service/feature"
+              "name": "Dont use service/feature",
+              "icon": "Do Not Track",
+              "color": "Red"
             },
             {
-              "name": "Opt-in"
+              "name": "Opt-in",
+              "icon": "Do Not Track",
+              "color": "Green"
             },
             {
-              "name": "Opt-out link"
+              "name": "Opt-out link",
+              "icon": "Do Not Track",
+              "color": "Yellow"
             },
             {
-              "name": "Opt-out via contacting company"
+              "name": "Opt-out via contacting company",
+              "icon": "Do Not Track",
+              "color": "Yellow"
             },
             {
-              "name": "First-party privacy controls"
+              "name": "First-party privacy controls",
+              "icon": "Do Not Track",
+              "color": "Yellow"
             },
             {
-              "name": "Third-party privacy controls"
+              "name": "Third-party privacy controls",
+              "icon": "Do Not Track",
+              "color": "Yellow"
             },
             {
-              "name": "Browser/device privacy controls"
+              "name": "Browser/device privacy controls",
+              "icon": "Do Not Track",
+              "color": "Yellow"
             },
             {
-              "name": "Other"
+              "name": "Other",
+              "icon": "Do Not Track",
+              "color": "Yellow"
             },
             {
-              "name": "Unspecified"
+              "name": "Unspecified",
+              "icon": "Do Not Track",
+              "color": "Red"
             }
           ],
           "optional": true,
@@ -488,16 +540,24 @@
           "name": "Choice Scope",
           "values": [
             {
-              "name": "Collection"
+              "name": "Collection",
+              "icon": "Expected Collection",
+              "color": "Green"
             },
             {
-              "name": "Use"
+              "name": "Use",
+              "icon": "Expected Use",
+              "color": "Yellow"
             },
             {
-              "name": "Both"
+              "name": "Both",
+              "icon": "Expected Use",
+              "color": "Red"
             },
             {
-              "name": "Unspecified"
+              "name": "Unspecified",
+              "icon": "Expected Use",
+              "color": "Red"
             }
           ],
           "optional": true,
@@ -512,31 +572,49 @@
           "name": "Choice Type",
           "values": [
             {
-              "name": "Dont use service/feature"
+              "name": "Dont use service/feature",
+              "icon": "Do Not Track",
+              "color": "Red"
             },
             {
-              "name": "Opt-in"
+              "name": "Opt-in",
+              "icon": "Do Not Track",
+              "color": "Green"
             },
             {
-              "name": "Opt-out link"
+              "name": "Opt-out link",
+              "icon": "Do Not Track",
+              "color": "Yellow"
             },
             {
-              "name": "Opt-out via contacting company"
+              "name": "Opt-out via contacting company",
+              "icon": "Do Not Track",
+              "color": "Yellow"
             },
             {
-              "name": "First-party privacy controls"
+              "name": "First-party privacy controls",
+              "icon": "Do Not Track",
+              "color": "Yellow"
             },
             {
-              "name": "Third-party privacy controls"
+              "name": "Third-party privacy controls",
+              "icon": "Do Not Track",
+              "color": "Yellow"
             },
             {
-              "name": "Browser/device privacy controls"
+              "name": "Browser/device privacy controls",
+              "icon": "Do Not Track",
+              "color": "Yellow"
             },
             {
-              "name": "Other"
+              "name": "Other",
+              "icon": "Do Not Track",
+              "color": "Yellow"
             },
             {
-              "name": "Unspecified"
+              "name": "Unspecified",
+              "icon": "Do Not Track",
+              "color": "Red"
             }
           ],
           "optional": false
@@ -545,19 +623,29 @@
           "name": "Choice Scope",
           "values": [
             {
-              "name": "First party collection"
+              "name": "First party collection",
+              "icon": "Expected Collection",
+              "color": "Green"
             },
             {
-              "name": "First party use"
+              "name": "First party use",
+              "icon": "Expected Use",
+              "color": "Green"
             },
             {
-              "name": "Third party sharing/collection"
+              "name": "Third party sharing/collection",
+              "icon": "Expected Collection",
+              "color": "Red"
             },
             {
-              "name": "Third party use"
+              "name": "Third party use",
+              "icon": "Expected Use",
+              "color": "Red"
             },
             {
-              "name": "Unspecified"
+              "name": "Unspecified",
+              "icon": "Expected Use",
+              "color": "Red"
             }
           ],
           "optional": false
@@ -566,52 +654,84 @@
           "name": "Personal Information Type",
           "values": [
             {
-              "name": "Financial"
+              "name": "Financial",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Health"
+              "name": "Health",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Contact"
+              "name": "Contact",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Location"
+              "name": "Location",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Demographic"
+              "name": "Demographic",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Personal identifier"
+              "name": "Personal identifier",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "User online activities"
+              "name": "User online activities",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "User profile"
+              "name": "User profile",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Social media data"
+              "name": "Social media data",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "IP address and device IDs"
+              "name": "IP address and device IDs",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Cookies and tracking elements"
+              "name": "Cookies and tracking elements",
+              "icon": "Do Not Track",
+              "color": "Red"
             },
             {
-              "name": "Computer information"
+              "name": "Computer information",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Survey data"
+              "name": "Survey data",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Generic personal information"
+              "name": "Generic personal information",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Other"
+              "name": "Other",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Unspecified"
+              "name": "Unspecified",
+              "icon": "Precise Location",
+              "color": "Red"
             }
           ],
           "optional": false
@@ -620,37 +740,59 @@
           "name": "Purpose",
           "values": [
             {
-              "name": "Basic service/feature"
+              "name": "Basic service/feature",
+              "icon": "Expected Use",
+              "color": "Green"
             },
             {
-              "name": "Additional service/feature"
+              "name": "Additional service/feature",
+              "icon": "Expected Use",
+              "color": "Yellow"
             },
             {
-              "name": "Advertising"
+              "name": "Advertising",
+              "icon": "Expected Use",
+              "color": "Red"
             },
             {
-              "name": "Marketing"
+              "name": "Marketing",
+              "icon": "Expected Use",
+              "color": "Yellow"
             },
             {
-              "name": "Analytics/Research"
+              "name": "Analytics/Research",
+              "icon": "Expected Use",
+              "color": "Yellow"
             },
             {
-              "name": "Personalization/Customization"
+              "name": "Personalization/Customization",
+              "icon": "Expected Use",
+              "color": "Yellow"
             },
             {
-              "name": "Service Operation and Security"
+              "name": "Service Operation and Security",
+              "icon": "Expected Use",
+              "color": "Green"
             },
             {
-              "name": "Legal requirement"
+              "name": "Legal requirement",
+              "icon": "Expected Use",
+              "color": "Green"
             },
             {
-              "name": "Merger/Acquisition"
+              "name": "Merger/Acquisition",
+              "icon": "Expected Use",
+              "color": "Yellow"
             },
             {
-              "name": "Other"
+              "name": "Other",
+              "icon": "Expected Use",
+              "color": "Yellow"
             },
             {
-              "name": "Unspecified"
+              "name": "Unspecified",
+              "icon": "Expected Use",
+              "color": "Red"
             }
           ],
           "optional": false
@@ -659,16 +801,24 @@
           "name": "User Type",
           "values": [
             {
-              "name": "User without account"
+              "name": "User without account",
+              "icon": "Children Privacy",
+              "color": "Gray"
             },
             {
-              "name": "User with account"
+              "name": "User with account",
+              "icon": "Children Privacy",
+              "color": "Green"
             },
             {
-              "name": "Other"
+              "name": "Other",
+              "icon": "Children Privacy",
+              "color": "Gray"
             },
             {
-              "name": "Unspecified"
+              "name": "Unspecified",
+              "icon": "Children Privacy",
+              "color": "Gray"
             }
           ],
           "optional": true,
@@ -683,31 +833,49 @@
           "name": "Access Type",
           "values": [
             {
-              "name": "None"
+              "name": "None",
+              "icon": "Data Retention",
+              "color": "Red"
             },
             {
-              "name": "View"
+              "name": "View",
+              "icon": "Data Retention",
+              "color": "Yellow"
             },
             {
-              "name": "Export"
+              "name": "Export",
+              "icon": "Data Retention",
+              "color": "Green"
             },
             {
-              "name": "Edit information"
+              "name": "Edit information",
+              "icon": "Data Retention",
+              "color": "Green"
             },
             {
-              "name": "Deactivate account"
+              "name": "Deactivate account",
+              "icon": "Data Retention",
+              "color": "Yellow"
             },
             {
-              "name": "Delete account (partial)"
+              "name": "Delete account (partial)",
+              "icon": "Data Retention",
+              "color": "Yellow"
             },
             {
-              "name": "Delete account (full)"
+              "name": "Delete account (full)",
+              "icon": "Data Retention",
+              "color": "Green"
             },
             {
-              "name": "Other"
+              "name": "Other",
+              "icon": "Data Retention",
+              "color": "Yellow"
             },
             {
-              "name": "Unspecified"
+              "name": "Unspecified",
+              "icon": "Data Retention",
+              "color": "Red"
             }
           ],
           "optional": false
@@ -716,22 +884,34 @@
           "name": "Access Scope",
           "values": [
             {
-              "name": "User account data"
+              "name": "User account data",
+              "icon": "Data Retention",
+              "color": "Green"
             },
             {
-              "name": "Transactional data"
+              "name": "Transactional data",
+              "icon": "Data Retention",
+              "color": "Yellow"
             },
             {
-              "name": "Profile data"
+              "name": "Profile data",
+              "icon": "Data Retention",
+              "color": "Green"
             },
             {
-              "name": "Other data about user"
+              "name": "Other data about user",
+              "icon": "Data Retention",
+              "color": "Yellow"
             },
             {
-              "name": "Other"
+              "name": "Other",
+              "icon": "Data Retention",
+              "color": "Yellow"
             },
             {
-              "name": "Unspecified"
+              "name": "Unspecified",
+              "icon": "Data Retention",
+              "color": "Red"
             }
           ],
           "optional": false
@@ -740,16 +920,24 @@
           "name": "User Type",
           "values": [
             {
-              "name": "User without account"
+              "name": "User without account",
+              "icon": "Children Privacy",
+              "color": "Gray"
             },
             {
-              "name": "User with account"
+              "name": "User with account",
+              "icon": "Children Privacy",
+              "color": "Green"
             },
             {
-              "name": "Other"
+              "name": "Other",
+              "icon": "Children Privacy",
+              "color": "Gray"
             },
             {
-              "name": "Unspecified"
+              "name": "Unspecified",
+              "icon": "Children Privacy",
+              "color": "Gray"
             }
           ],
           "optional": true,
@@ -764,19 +952,29 @@
           "name": "Retention Period",
           "values": [
             {
-              "name": "Indefinitely"
+              "name": "Indefinitely",
+              "icon": "Data Retention",
+              "color": "Red"
             },
             {
-              "name": "Limited"
+              "name": "Limited",
+              "icon": "Data Retention",
+              "color": "Yellow"
             },
             {
-              "name": "Stated Period"
+              "name": "Stated Period",
+              "icon": "Data Retention",
+              "color": "Green"
             },
             {
-              "name": "Other"
+              "name": "Other",
+              "icon": "Data Retention",
+              "color": "Yellow"
             },
             {
-              "name": "Unspecified"
+              "name": "Unspecified",
+              "icon": "Data Retention",
+              "color": "Red"
             }
           ],
           "optional": false
@@ -785,28 +983,44 @@
           "name": "Retention Purpose",
           "values": [
             {
-              "name": "Perform service"
+              "name": "Perform service",
+              "icon": "Expected Use",
+              "color": "Green"
             },
             {
-              "name": "Legal requirement"
+              "name": "Legal requirement",
+              "icon": "Expected Use",
+              "color": "Green"
             },
             {
-              "name": "Analytics/Research"
+              "name": "Analytics/Research",
+              "icon": "Expected Use",
+              "color": "Yellow"
             },
             {
-              "name": "Service operation and security"
+              "name": "Service operation and security",
+              "icon": "Expected Use",
+              "color": "Green"
             },
             {
-              "name": "Advertising"
+              "name": "Advertising",
+              "icon": "Expected Use",
+              "color": "Red"
             },
             {
-              "name": "Marketing"
+              "name": "Marketing",
+              "icon": "Expected Use",
+              "color": "Yellow"
             },
             {
-              "name": "Other"
+              "name": "Other",
+              "icon": "Expected Use",
+              "color": "Yellow"
             },
             {
-              "name": "Unspecified"
+              "name": "Unspecified",
+              "icon": "Expected Use",
+              "color": "Red"
             }
           ],
           "optional": false
@@ -815,52 +1029,84 @@
           "name": "Personal Information Type",
           "values": [
             {
-              "name": "Financial"
+              "name": "Financial",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Health"
+              "name": "Health",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Contact"
+              "name": "Contact",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Location"
+              "name": "Location",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Demographic"
+              "name": "Demographic",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Personal identifier"
+              "name": "Personal identifier",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "User online activities"
+              "name": "User online activities",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "User profile"
+              "name": "User profile",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Social media data"
+              "name": "Social media data",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "IP address and device IDs"
+              "name": "IP address and device IDs",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Cookies and tracking elements"
+              "name": "Cookies and tracking elements",
+              "icon": "Do Not Track",
+              "color": "Red"
             },
             {
-              "name": "Computer information"
+              "name": "Computer information",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Survey data"
+              "name": "Survey data",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Generic personal information"
+              "name": "Generic personal information",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Other"
+              "name": "Other",
+              "icon": "Precise Location",
+              "color": "Red"
             },
             {
-              "name": "Unspecified"
+              "name": "Unspecified",
+              "icon": "Precise Location",
+              "color": "Red"
             }
           ],
           "optional": false
@@ -874,34 +1120,54 @@
           "name": "Security Measure",
           "values": [
             {
-              "name": "Secure data transfer"
+              "name": "Secure data transfer",
+              "icon": "Heartbleed",
+              "color": "Green"
             },
             {
-              "name": "Secure user authentication"
+              "name": "Secure user authentication",
+              "icon": "Heartbleed",
+              "color": "Green"
             },
             {
-              "name": "Secure data storage"
+              "name": "Secure data storage",
+              "icon": "Heartbleed",
+              "color": "Green"
             },
             {
-              "name": "Data access limitation"
+              "name": "Data access limitation",
+              "icon": "Heartbleed",
+              "color": "Green"
             },
             {
-              "name": "Privacy training"
+              "name": "Privacy training",
+              "icon": "Heartbleed",
+              "color": "Yellow"
             },
             {
-              "name": "Privacy review/audit"
+              "name": "Privacy review/audit",
+              "icon": "Heartbleed",
+              "color": "Yellow"
             },
             {
-              "name": "Privacy/Security program"
+              "name": "Privacy/Security program",
+              "icon": "Heartbleed",
+              "color": "Green"
             },
             {
-              "name": "Generic"
+              "name": "Generic",
+              "icon": "Heartbleed",
+              "color": "Yellow"
             },
             {
-              "name": "Other"
+              "name": "Other",
+              "icon": "Heartbleed",
+              "color": "Yellow"
             },
             {
-              "name": "Unspecified"
+              "name": "Unspecified",
+              "icon": "Heartbleed",
+              "color": "Red"
             }
           ],
           "optional": false
@@ -915,19 +1181,29 @@
           "name": "Change Type",
           "values": [
             {
-              "name": "Non-privacy relevant change"
+              "name": "Non-privacy relevant change",
+              "icon": "Expected Use",
+              "color": "Green"
             },
             {
-              "name": "Privacy relevant change"
+              "name": "Privacy relevant change",
+              "icon": "Expected Use",
+              "color": "Yellow"
             },
             {
-              "name": "In case of merger or acquisition"
+              "name": "In case of merger or acquisition",
+              "icon": "Expected Use",
+              "color": "Yellow"
             },
             {
-              "name": "Other"
+              "name": "Other",
+              "icon": "Expected Use",
+              "color": "Yellow"
             },
             {
-              "name": "Unspecified"
+              "name": "Unspecified",
+              "icon": "Expected Use",
+              "color": "Red"
             }
           ],
           "optional": false
@@ -936,22 +1212,34 @@
           "name": "Notification Type",
           "values": [
             {
-              "name": "No notification"
+              "name": "No notification",
+              "icon": "Expected Collection",
+              "color": "Red"
             },
             {
-              "name": "General notice in privacy policy"
+              "name": "General notice in privacy policy",
+              "icon": "Expected Collection",
+              "color": "Yellow"
             },
             {
-              "name": "General notice on website"
+              "name": "General notice on website",
+              "icon": "Expected Collection",
+              "color": "Yellow"
             },
             {
-              "name": "Personal notice"
+              "name": "Personal notice",
+              "icon": "Expected Collection",
+              "color": "Green"
             },
             {
-              "name": "Other"
+              "name": "Other",
+              "icon": "Expected Collection",
+              "color": "Yellow"
             },
             {
-              "name": "Unspecified"
+              "name": "Unspecified",
+              "icon": "Expected Collection",
+              "color": "Red"
             }
           ],
           "optional": false
@@ -960,22 +1248,34 @@
           "name": "User Choice",
           "values": [
             {
-              "name": "None"
+              "name": "None",
+              "icon": "Do Not Track",
+              "color": "Red"
             },
             {
-              "name": "Opt-out"
+              "name": "Opt-out",
+              "icon": "Do Not Track",
+              "color": "Yellow"
             },
             {
-              "name": "Opt-in"
+              "name": "Opt-in",
+              "icon": "Do Not Track",
+              "color": "Green"
             },
             {
-              "name": "User participation"
+              "name": "User participation",
+              "icon": "Do Not Track",
+              "color": "Green"
             },
             {
-              "name": "Other"
+              "name": "Other",
+              "icon": "Do Not Track",
+              "color": "Yellow"
             },
             {
-              "name": "Unspecified"
+              "name": "Unspecified",
+              "icon": "Do Not Track",
+              "color": "Red"
             }
           ],
           "optional": false
@@ -989,19 +1289,29 @@
           "name": "Do Not Track policy",
           "values": [
             {
-              "name": "Not mentioned"
+              "name": "Not mentioned",
+              "icon": "Do Not Track",
+              "color": "Red"
             },
             {
-              "name": "Honored"
+              "name": "Honored",
+              "icon": "Do Not Track",
+              "color": "Green"
             },
             {
-              "name": "Not honored"
+              "name": "Not honored",
+              "icon": "Do Not Track",
+              "color": "Red"
             },
             {
-              "name": "Mentioned, but unclear if honored"
+              "name": "Mentioned, but unclear if honored",
+              "icon": "Do Not Track",
+              "color": "Yellow"
             },
             {
-              "name": "Other"
+              "name": "Other",
+              "icon": "Do Not Track",
+              "color": "Yellow"
             }
           ],
           "optional": false
@@ -1015,19 +1325,29 @@
           "name": "Audience Type",
           "values": [
             {
-              "name": "Californians"
+              "name": "Californians",
+              "icon": "Children Privacy",
+              "color": "Gray"
             },
             {
-              "name": "Europeans"
+              "name": "Europeans",
+              "icon": "Children Privacy",
+              "color": "Gray"
             },
             {
-              "name": "Citizens from other countries"
+              "name": "Citizens from other countries",
+              "icon": "Children Privacy",
+              "color": "Gray"
             },
             {
-              "name": "Children"
+              "name": "Children",
+              "icon": "Children Privacy",
+              "color": "Red"
             },
             {
-              "name": "Other"
+              "name": "Other",
+              "icon": "Children Privacy",
+              "color": "Gray"
             }
           ],
           "optional": false
@@ -1041,16 +1361,24 @@
           "name": "Other Type",
           "values": [
             {
-              "name": "Introductory/Generic"
+              "name": "Introductory/Generic",
+              "icon": "Expected Use",
+              "color": "Green"
             },
             {
-              "name": "Practice not covered"
+              "name": "Practice not covered",
+              "icon": "Expected Use",
+              "color": "Red"
             },
             {
-              "name": "Privacy contact information"
+              "name": "Privacy contact information",
+              "icon": "Expected Use",
+              "color": "Green"
             },
             {
-              "name": "Other"
+              "name": "Other",
+              "icon": "Expected Use",
+              "color": "Yellow"
             }
           ],
           "optional": false

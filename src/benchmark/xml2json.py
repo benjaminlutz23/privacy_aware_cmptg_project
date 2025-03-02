@@ -4,7 +4,8 @@ import os
 
 def xml_to_json(xml_file_path, json_output_path=None):
     """
-    Convert the OPP-115 categories XML file to JSON format
+    Convert the OPP-115 categories XML file to JSON format.  This will be used as the base for the mapping from
+    human annotation categories to Disconnect.me privacy icons.
     
     Args:
         xml_file_path: Path to the XML file
@@ -113,7 +114,7 @@ if __name__ == "__main__":
     
     # Define paths using os.path.join for better cross-platform compatibility
     xml_path = os.path.abspath(os.path.join(current_dir, "..", "data", "opp-115-dataset", "documentation", "categories-july30.xml"))
-    json_path  = os.path.abspath(os.path.join(current_dir, "..", "data", "benchmark", "annotation_to_icon_mappings.json"))
+    json_path  = os.path.abspath(os.path.join(current_dir, "..", "data", "benchmark", "xml2json.json"))
     
     print(f"XML path: {xml_path}")
     print(f"JSON path: {json_path}")

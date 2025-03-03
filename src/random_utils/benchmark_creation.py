@@ -19,6 +19,16 @@ def get_icon_mapping(annotation, mappings):
                         icons.append({'icon': value['icon'], 'color': value['color']})
     return icons
 
+def prioritize_icons(icons):
+    priority = {'red': 1, 'yellow': 2, 'green': 3, 'gray': 4, 'white': 5}
+    unique_icons = {}
+    for icon in icons:
+        icon_name = icon['icon']
+        icon_color = icon['color'].lower()
+        if icon_name not in unique_icons or priority[icon_color] < priority[unique_icons[icon_name]['color'].lower()]:
+            unique_icons[icon_name] = icon
+    return list(unique_icons.values())
+
 def main():
     annotated_policies_path = '../data/benchmark/annotated_policies/20_theatlantic.com.json'
     benchmarked_policies_path = '../data/benchmark/benchmarked_policies/20_theatlantic.com.json'
@@ -32,7 +42,7 @@ def main():
         icons = []
         for annotation in annotations:
             icons.extend(get_icon_mapping(annotation, mappings))
-        benchmarked_policies[section] = icons
+        benchmarked_policies[section] = prioritize_icons(icons)
 
     save_json(benchmarked_policies_path, benchmarked_policies)
 

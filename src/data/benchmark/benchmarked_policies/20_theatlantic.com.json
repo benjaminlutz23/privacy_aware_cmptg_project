@@ -23,272 +23,28 @@
     {
       "icon": "Do Not Track",
       "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Green"
     }
   ],
   "3": [
     {
       "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
       "color": "Red"
     },
     {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
       "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
       "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
     },
     {
       "icon": "Precise Location",
       "color": "Red"
     },
     {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
       "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
       "color": "Green"
     },
     {
       "icon": "Do Not Track",
       "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
     }
   ],
   "4": [
@@ -301,600 +57,28 @@
       "color": "Green"
     },
     {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
       "icon": "Data Retention",
       "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Green"
     }
   ],
   "5": [
     {
       "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
       "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
     },
     {
       "icon": "Data Retention",
       "color": "Yellow"
+    },
+    {
+      "icon": "Precise Location",
+      "color": "Red"
     }
   ],
   "6": [
     {
       "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
       "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
     },
     {
       "icon": "Data Retention",
@@ -914,153 +98,13 @@
     },
     {
       "icon": "Do Not Track",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Use",
       "color": "Red"
     }
   ],
   "7": [
     {
       "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
       "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
     },
     {
       "icon": "Data Retention",
@@ -1078,75 +122,7 @@
   "8": [
     {
       "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Do Not Track",
       "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
     },
     {
       "icon": "Data Retention",
@@ -1164,31 +140,7 @@
   "9": [
     {
       "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Do Not Track",
       "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
     },
     {
       "icon": "Data Retention",
@@ -1200,30 +152,6 @@
     },
     {
       "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
       "color": "Red"
     },
     {
@@ -1231,137 +159,13 @@
       "color": "Red"
     },
     {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
       "icon": "Children Privacy",
       "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
     }
   ],
   "10": [
     {
       "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
       "color": "Red"
     },
     {
@@ -1370,10 +174,6 @@
     },
     {
       "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Do Not Track",
       "color": "Red"
     },
     {
@@ -1383,311 +183,15 @@
     {
       "icon": "Children Privacy",
       "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
     },
     {
       "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
       "color": "Red"
     }
   ],
   "11": [
     {
       "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
       "color": "Red"
     },
     {
@@ -1697,10 +201,6 @@
     {
       "icon": "Data Retention",
       "color": "Yellow"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
     },
     {
       "icon": "Expected Use",
@@ -1709,485 +209,9 @@
     {
       "icon": "Children Privacy",
       "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
     },
     {
       "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
       "color": "Red"
     }
   ],
@@ -2200,202 +224,6 @@
   "13": [
     {
       "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
       "color": "Red"
     },
     {
@@ -2405,144 +233,16 @@
     {
       "icon": "Expected Use",
       "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
     }
   ],
   "14": [
     {
       "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
       "color": "Red"
     },
     {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
       "icon": "Data Retention",
-      "color": "Yellow"
+      "color": "Red"
     },
     {
       "icon": "Precise Location",
@@ -2558,34 +258,6 @@
     },
     {
       "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
       "color": "Red"
     }
   ],
@@ -2595,14 +267,6 @@
       "color": "Red"
     },
     {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
       "icon": "Data Retention",
       "color": "Red"
     },
@@ -2620,46 +284,6 @@
     },
     {
       "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
       "color": "Red"
     }
   ],
@@ -2669,14 +293,6 @@
       "color": "Red"
     },
     {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
       "icon": "Data Retention",
       "color": "Red"
     },
@@ -2686,7 +302,7 @@
     },
     {
       "icon": "Expected Use",
-      "color": "Green"
+      "color": "Red"
     },
     {
       "icon": "Children Privacy",
@@ -2694,375 +310,11 @@
     },
     {
       "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
       "color": "Red"
     },
     {
       "icon": "Heartbleed",
       "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
     }
   ],
   "17": [
@@ -3071,14 +323,6 @@
       "color": "Red"
     },
     {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
       "icon": "Data Retention",
       "color": "Red"
     },
@@ -3097,126 +341,6 @@
     {
       "icon": "Do Not Track",
       "color": "White"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "White"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "White"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "White"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
     }
   ],
   "18": [
@@ -3225,14 +349,6 @@
       "color": "Red"
     },
     {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
       "icon": "Data Retention",
       "color": "Red"
     },
@@ -3242,7 +358,7 @@
     },
     {
       "icon": "Expected Use",
-      "color": "Yellow"
+      "color": "Red"
     },
     {
       "icon": "Children Privacy",
@@ -3250,82 +366,6 @@
     },
     {
       "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
       "color": "Red"
     }
   ],
@@ -3335,14 +375,6 @@
       "color": "Red"
     },
     {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
       "icon": "Data Retention",
       "color": "Red"
     },
@@ -3352,7 +384,7 @@
     },
     {
       "icon": "Expected Use",
-      "color": "Green"
+      "color": "Red"
     },
     {
       "icon": "Children Privacy",
@@ -3360,154 +392,6 @@
     },
     {
       "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
       "color": "Red"
     }
   ],
@@ -3517,14 +401,6 @@
       "color": "Red"
     },
     {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
       "icon": "Data Retention",
       "color": "Green"
     },
@@ -3534,7 +410,7 @@
     },
     {
       "icon": "Expected Use",
-      "color": "Yellow"
+      "color": "Red"
     },
     {
       "icon": "Children Privacy",
@@ -3542,168 +418,16 @@
     },
     {
       "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
       "color": "Red"
     }
   ],
   "21": [
     {
       "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Do Not Track",
       "color": "Red"
     },
     {
-      "icon": "Expected Use",
+      "icon": "Do Not Track",
       "color": "Red"
     },
     {
@@ -3711,32 +435,12 @@
       "color": "Red"
     },
     {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
       "icon": "Children Privacy",
       "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "White"
     },
     {
       "icon": "Expected Collection",
       "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
     }
   ],
   "22": [
@@ -3761,60 +465,8 @@
       "color": "Gray"
     },
     {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
       "icon": "Data Retention",
       "color": "Red"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Green"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
     }
   ],
   "23": [
@@ -3832,147 +484,15 @@
     },
     {
       "icon": "Expected Use",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "White"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
       "color": "Red"
     },
     {
       "icon": "Children Privacy",
       "color": "Gray"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
     },
     {
       "icon": "Data Retention",
       "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "White"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "White"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "White"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "White"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
     }
   ],
   "24": [
@@ -3989,50 +509,6 @@
       "color": "Red"
     },
     {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "White"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "White"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
       "icon": "Children Privacy",
       "color": "Gray"
     }
@@ -4044,55 +520,11 @@
     },
     {
       "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "White"
-    },
-    {
-      "icon": "Expected Use",
       "color": "Red"
     },
     {
       "icon": "Precise Location",
       "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "White"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
     },
     {
       "icon": "Children Privacy",
@@ -4103,10 +535,6 @@
     {
       "icon": "Expected Use",
       "color": "Green"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
     },
     {
       "icon": "Children Privacy",
@@ -4132,66 +560,6 @@
   "29": [
     {
       "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Red"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Precise Location",
-      "color": "Red"
-    },
-    {
-      "icon": "Data Retention",
       "color": "Red"
     },
     {
@@ -4213,34 +581,6 @@
       "color": "Green"
     },
     {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Do Not Track",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
-      "color": "Green"
-    },
-    {
       "icon": "Data Retention",
       "color": "Red"
     },
@@ -4255,15 +595,7 @@
       "color": "Gray"
     },
     {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
       "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Collection",
       "color": "Green"
     },
     {
@@ -4273,10 +605,6 @@
     {
       "icon": "Data Retention",
       "color": "Yellow"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
     }
   ],
   "32": [
@@ -4287,68 +615,12 @@
     {
       "icon": "Expected Use",
       "color": "Green"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
     }
   ],
   "33": [
     {
       "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
       "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
     },
     {
       "icon": "Children Privacy",
@@ -4359,72 +631,12 @@
     {
       "icon": "Expected Use",
       "color": "Green"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Green"
-    },
-    {
-      "icon": "Expected Use",
-      "color": "Green"
     }
   ],
   "35": [
     {
       "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
       "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Red"
-    },
-    {
-      "icon": "Children Privacy",
-      "color": "Gray"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Green"
-    },
-    {
-      "icon": "Data Retention",
-      "color": "Yellow"
     },
     {
       "icon": "Children Privacy",

@@ -2,6 +2,9 @@ import xml.etree.ElementTree as ET
 import json
 import os
 
+# I can probably delete this script when I'm done with it. It's what I used to convert the xml documentation of
+# what annotations were performed to json format so that I could create the mapping.
+
 def xml_to_json(xml_file_path, json_output_path=None):
     """
     Convert the OPP-115 categories XML file to JSON format.  This will be used as the base for the mapping from

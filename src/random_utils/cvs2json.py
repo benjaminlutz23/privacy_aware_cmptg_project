@@ -7,7 +7,7 @@ from collections import defaultdict
 
 # Define directories
 csv_dir_path = '../data/opp-115-dataset/consolidation/threshold-1.0-overlap-similarity'
-json_dir_path = '../data/benchmark/benchmarked_policies'
+json_dir_path = '../data/benchmark/annotated_policies'
 
 # Ensure the JSON directory exists
 os.makedirs(json_dir_path, exist_ok=True)

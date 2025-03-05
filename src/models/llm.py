@@ -23,8 +23,9 @@ def create_html_file(llm_name, image_paths):
         os.makedirs(output_dir)
 
     output_path = os.path.join(output_dir, '{}_icon_assignment.html'.format(llm_name))
-    with open(output_path, 'w') as file:
-        file.write(html_content)
+    if not os.path.exists(output_path):
+        with open(output_path, 'w') as file:
+            file.write(html_content)
 
 def run_llm_agents():
     image_paths = get_image_paths('../privacy-icon-images')

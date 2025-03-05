@@ -29,13 +29,8 @@ def prioritize_icons(icons):
             unique_icons[icon_name] = icon
     return list(unique_icons.values())
 
-def main():
-    annotated_policies_path = '../data/benchmark/annotated_policies/20_theatlantic.com.json'
-    benchmarked_policies_path = '../data/benchmark/benchmarked_policies/20_theatlantic.com.json'
-    mappings_path = '../data/benchmark/annotation_to_icon_mappings.json'
-
+def process_file(annotated_policies_path, benchmarked_policies_path, mappings):
     annotated_policies = load_json(annotated_policies_path)
-    mappings = load_json(mappings_path)
     benchmarked_policies = {}
 
     for section, annotations in annotated_policies.items():
@@ -45,6 +40,22 @@ def main():
         benchmarked_policies[section] = prioritize_icons(icons)
 
     save_json(benchmarked_policies_path, benchmarked_policies)
+
+def main():
+    annotated_policies_dir = '../data/benchmark/annotated_policies'
+    benchmarked_policies_dir = '../data/benchmark/benchmarked_policies'
+    mappings_path = '../data/benchmark/annotation_to_icon_mappings.json'
+
+    mappings = load_json(mappings_path)
+
+    if not os.path.exists(benchmarked_policies_dir):
+        os.makedirs(benchmarked_policies_dir)
+
+    for filename in os.listdir(annotated_policies_dir):
+        if filename.endswith('.json'):
+            annotated_policies_path = os.path.join(annotated_policies_dir, filename)
+            benchmarked_policies_path = os.path.join(benchmarked_policies_dir, filename)
+            process_file(annotated_policies_path, benchmarked_policies_path, mappings)
 
 if __name__ == '__main__':
     main()

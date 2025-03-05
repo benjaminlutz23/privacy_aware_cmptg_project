@@ -15,11 +15,11 @@ def copy_files(src_dir, dest_dirs):
             shutil.copy2(src_file, dest_file)
 
 def main():
-    src_dir = '../src/data/opp-115-dataset/sanitized_policies'
+    src_dir = './src/data/opp-115-dataset/sanitized_policies'
     dest_dirs = [
-        '../src/data/llm_annotated_policies/openai',
-        '../src/data/llm_annotated_policies/anthropic',
-        '../src/data/llm_annotated_policies/gemini'
+        './src/data/llm_annotated_policies/openai',
+        './src/data/llm_annotated_policies/anthropic',
+        './src/data/llm_annotated_policies/gemini'
     ]
     copy_files(src_dir, dest_dirs)
 

@@ -19,8 +19,8 @@ def create_html_file(llm_name, image_paths):
     html_content += "</body></html>"
 
     output_dir = '../data/llm_annotated_policies'
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
+    # if not os.path.exists(output_dir):
+    #     os.makedirs(output_dir)
 
     output_path = os.path.join(output_dir, '{}_icon_assignment.html'.format(llm_name))
     if not os.path.exists(output_path):
@@ -32,15 +32,12 @@ def run_llm_agents():
 
     # OpenAI
     openai_agent = ChatOpenAI(model="gpt-4", temperature=0)
-    create_html_file('openai', image_paths)
 
     # Anthropic
     anthropic_agent = ChatAnthropic(model="claude-3-sonnet-20240229", temperature=0.1, max_tokens=1000)
-    create_html_file('anthropic', image_paths)
 
     # Gemini
     gemini_agent = GoogleGenerativeAI(model="gemini-1.5-pro-latest", temperature=0)
-    create_html_file('gemini', image_paths)
 
 # Placeholder for LLM interaction code
 def assign_privacy_icons(policy_text):

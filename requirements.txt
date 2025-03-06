@@ -1,5 +1,6 @@
 flask
 langchain
+langchain_chroma
 langchain_openai 
 langchain_google_genai 
 langchain_anthropic

@@ -1,45 +1,36 @@
 import os
+import json
+import logging
+import time
 from langchain_openai import ChatOpenAI
 from langchain_google_genai import GoogleGenerativeAI
 from langchain_anthropic import ChatAnthropic
 
-def get_image_paths(directory):
-    image_paths = []
-    for root, _, files in os.walk(directory):
-        for file in files:
-            if file.endswith('.png'):
-                image_paths.append(os.path.join(root, file))
-    return image_paths
+def print_first_three_sections():
+    """ Read the first three sections from a specific HTML file and print the contents to stdout. """
+    filepath = "./src/data/llm_annotated_policies/openai/20_theatlantic.com.html"
+    
+    if not os.path.exists(filepath):
+        logging.error(f"File not found: {filepath}")
+        return
 
-def create_html_file(llm_name, image_paths):
-    html_content = "<html><body><h1>Hello World from {}</h1>".format(llm_name)
-    for image_path in image_paths:
-        image_name = os.path.basename(image_path)
-        html_content += '<div><img src="{}" alt="{}"><p>{}</p></div>'.format(image_path, image_name, image_name)
-    html_content += "</body></html>"
+    with open(filepath, "r") as file:
+        policy_text = file.read()
 
-    output_dir = '../data/llm_annotated_policies'
-    # if not os.path.exists(output_dir):
-    #     os.makedirs(output_dir)
+    sections = policy_text.split("|||")
+    first_three_sections = sections[:3]
 
-    output_path = os.path.join(output_dir, '{}_icon_assignment.html'.format(llm_name))
-    if not os.path.exists(output_path):
-        with open(output_path, 'w') as file:
-            file.write(html_content)
+    for i, section in enumerate(first_three_sections):
+        print(f"Section {i+1}:\n{section}\n")
 
 def run_llm_agents():
-    image_paths = get_image_paths('../privacy-icon-images')
-
     # OpenAI
     openai_agent = ChatOpenAI(model="gpt-4", temperature=0)
+
+    # To do later:
 
     # Anthropic
     anthropic_agent = ChatAnthropic(model="claude-3-sonnet-20240229", temperature=0.1, max_tokens=1000)
 
     # Gemini
     gemini_agent = GoogleGenerativeAI(model="gemini-1.5-pro-latest", temperature=0)
-
-# Placeholder for LLM interaction code
-def assign_privacy_icons(policy_text):
-    run_llm_agents()
-    return {"icons": []}

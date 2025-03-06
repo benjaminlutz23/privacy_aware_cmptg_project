@@ -1,5 +1,5 @@
 from flask import Blueprint, render_template, request, jsonify
-from models.llm import assign_privacy_icons
+# from models.llm import assign_privacy_icons
 
 main_bp = Blueprint('main', __name__)
 
@@ -10,5 +10,5 @@ def index():
 @main_bp.route('/process', methods=['POST'])
 def process():
     data = request.json
-    icons = assign_privacy_icons(data['policy'])
-    return jsonify({"status": "success", "icons": icons})
+    # icons = assign_privacy_icons(data['policy'])
+    return

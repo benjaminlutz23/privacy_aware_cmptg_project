@@ -18,8 +18,8 @@ def annotate_policy_section(section, llm):
         input_variables=["context", "policy_section"],
         template=(
             "You are an AI agent that assigns the most appropriate privacy category icon and its corresponding color "
-            "to a section of a privacy policy. Your decisions must be based on the category definitions "
-            "provided in the context. Read the policy section carefully and match it to the best category. \n\n"
+            "to a section of a privacy policy. You must choose from the icons that are in your vector datastore of knowledge "
+            "Read the policy section carefully and match it to the best icon/color combo. Your output should follow this format: \n\n"
             "### Policy Section:\n{policy_section}\n\n"
             "### Output Format (JSON):\n"
             '{{"icon": "<associated_icon>", "color": "<color_in_english>"}}'

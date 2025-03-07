@@ -4,36 +4,42 @@ from langchain_openai import ChatOpenAI
 from langchain_google_genai import GoogleGenerativeAI
 from langchain_anthropic import ChatAnthropic
 from langchain_core.prompts import PromptTemplate
-from models.rag import vectorstore, format_docs
+from models.rag import extract_icon_color_options, format_context, vectorstore, format_docs
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
 
 def annotate_policy_section(section, llm):
-    """Annotate a single section of a privacy policy using the specified language model."""
+    """Annotate a single section of a privacy policy using the LLM with properly structured context."""
     
     retriever = vectorstore.as_retriever()
+    retrieved_docs = retriever.invoke(section)  # Fetch relevant category JSON
+    retrieved_context = format_docs(retrieved_docs)  # Convert to string
 
-    # Define a custom prompt template
+    # Extract and format only valid (icon, color) pairs
+    icon_color_pairs = extract_icon_color_options(retrieved_docs)
+    structured_context = format_context(icon_color_pairs)
+
     prompt = PromptTemplate(
         input_variables=["context", "policy_section"],
         template=(
-            "You are an AI agent that assigns the most appropriate privacy category icon and its corresponding color "
-            "to a section of a privacy policy. You must choose from the icons that are in your vector datastore of knowledge "
-            "Read the policy section carefully and match it to the best icon/color combo. Your output should follow this format: \n\n"
+            "You are an AI tasked with assigning the most appropriate **privacy category icon and its corresponding color** "
+            "to a section of a privacy policy. \n\n"
+            "**Use ONLY the provided icons and colors from the structured list below. Do NOT generate new icons or colors.**\n\n"
+            "### Available Icons and Colors:\n{context}\n\n"
             "### Policy Section:\n{policy_section}\n\n"
-            "### Output Format (JSON):\n"
-            '{{"icon": "<associated_icon>", "color": "<color_in_english>"}}'
+            "### Output Format (JSON) - **Strictly choose an icon/color from the list**:\n"
+            '{{"icon": "<chosen_icon_from_context>", "color": "<chosen_color_from_context>"}}'
         )
     )
 
     rag_chain = (
-        {"context": retriever | format_docs, "policy_section": RunnablePassthrough()}
+        {"context": RunnablePassthrough(), "policy_section": RunnablePassthrough()}
         | prompt
         | llm
         | StrOutputParser()
     )
 
-    result = rag_chain.invoke(section)
+    result = rag_chain.invoke({"context": structured_context, "policy_section": section})
     return result
 
 def print_first_three_sections(llm):

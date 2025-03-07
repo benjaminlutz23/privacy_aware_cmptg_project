@@ -4,7 +4,7 @@ from langchain_openai import ChatOpenAI
 from langchain_google_genai import GoogleGenerativeAI
 from langchain_anthropic import ChatAnthropic
 from langchain_core.prompts import PromptTemplate
-from models.rag import extract_icon_color_options, format_context, vectorstore, format_docs
+from ai_policy_annotation.rag import extract_icon_color_options, format_context, vectorstore, format_docs
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
 

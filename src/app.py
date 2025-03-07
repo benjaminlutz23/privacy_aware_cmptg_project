@@ -1,8 +1,8 @@
 from flask import Flask
 from controllers.main_controller import main_bp
-from models.llm import run_llm_agents
-from models.copy_policies import main as copy_policies
-from models.rag import initialize_rag_database
+from ai_policy_annotation.llm import run_llm_agents
+from ai_policy_annotation.copy_policies import main as copy_policies
+from ai_policy_annotation.rag import initialize_rag_database
 
 app = Flask(__name__)
 app.register_blueprint(main_bp)

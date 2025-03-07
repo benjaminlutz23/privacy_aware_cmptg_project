@@ -1,5 +1,5 @@
 from flask import Blueprint, render_template, request, jsonify
-# from models.llm import assign_privacy_icons
+# from ai_policy_annotation.llm import assign_privacy_icons
 
 main_bp = Blueprint('main', __name__)
 

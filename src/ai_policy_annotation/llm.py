@@ -2,11 +2,12 @@ import os
 import logging
 import json
 import re
+import shutil
 from langchain_openai import ChatOpenAI
 from langchain_google_genai import GoogleGenerativeAI
 from langchain_anthropic import ChatAnthropic
 from langchain_core.prompts import PromptTemplate
-from ai_policy_annotation.rag import extract_icon_color_options, format_context, vectorstore, format_docs
+from ai_policy_annotation.rag import extract_icon_color_options, format_context, initialize_rag_database, vectorstore, format_docs
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
 
@@ -102,19 +103,31 @@ def annotate_and_save_sections(llm, model):
     logging.info(f"Annotations saved to {filepath}")
 
 def run_llm_agents():
+    def delete_rag_data():
+        """Deletes the .rag_data directory if it exists."""
+        rag_data_path = ".rag_data"
+        if os.path.exists(rag_data_path) and os.path.isdir(rag_data_path):
+            shutil.rmtree(rag_data_path)
+            logging.info(f"Deleted directory: {rag_data_path}")
+
     # OpenAI
     model = "openai"
-    openai_agent = ChatOpenAI(model="gpt-4", temperature=0)
+    openai_agent = ChatOpenAI(model="gpt-4o-mini", temperature=0)
+    # delete_rag_data()
+    # initialize_rag_database()
     # annotate_and_save_sections(openai_agent, model)
 
-    # To do later:
 
     # Anthropic
     model = "anthropic"
-    anthropic_agent = ChatAnthropic(model="claude-3-sonnet-20240229", temperature=0.1, max_tokens=1000)
-    # annotate_and_save_sections(anthropic_agent, model)
+    anthropic_agent = ChatAnthropic(model="claude-3-5-sonnet-latest", temperature=0)
+    delete_rag_data()
+    initialize_rag_database()
+    annotate_and_save_sections(anthropic_agent, model)
 
     # Gemini
     model = "gemini"
     gemini_agent = GoogleGenerativeAI(model="gemini-1.5-pro-latest", temperature=0)
-    annotate_and_save_sections(gemini_agent, model)
+    # delete_rag_data()
+    # initialize_rag_database()
+    # annotate_and_save_sections(gemini_agent, model)

@@ -9,6 +9,5 @@ app.register_blueprint(main_bp)
 
 if __name__ == '__main__':
     copy_policies()
-    initialize_rag_database()
-    # run_llm_agents()
+    run_llm_agents()
     # app.run(debug=True)

@@ -11,6 +11,40 @@ from ai_policy_annotation.rag import extract_icon_color_options, format_context,
 from langchain_core.runnables import RunnablePassthrough
 from langchain_core.output_parsers import StrOutputParser
 
+def get_icon_image_path(icon, color):
+    """Return the image path for a given privacy icon name and color."""
+    
+    # Mapping of icon names to directory names
+    icon_to_dir = {
+        "Children Privacy": "children-privacy",
+        "Data Retention": "data-retention",
+        "Do Not Track": "do-not-track",
+        "Expected Collection": "expected-collection",
+        "Expected Use": "expected-use",
+        "Heartbleed": "heartbleed",
+        "Precise Location": "precise-location"
+    }
+    
+    # Mapping of color names to file names
+    color_to_file = {
+        "Gray": "gray.png",
+        "Green": "green.png",
+        "Red": "red.png",
+        "White": "white.png",
+        "Yellow": "yellow.png"
+    }
+    
+    # Ensure the provided icon and color are valid
+    if icon not in icon_to_dir or color not in color_to_file:
+        raise ValueError(f"Invalid icon '{icon}' or color '{color}'. Please provide a valid input.")
+    
+    # Construct the file path
+    directory = icon_to_dir[icon]
+    filename = color_to_file[color]
+    image_path = f"../../privacy-icon-images/{directory}/{filename}"
+    
+    return image_path
+
 def annotate_policy_section(section, llm):
     """Annotate a single section of a privacy policy using the LLM with properly structured context."""
     
@@ -83,7 +117,10 @@ def annotate_and_save_sections(llm, model):
             # Extract icon and color
             icon = annotation_json.get("icon", "Unknown Icon")
             color = annotation_json.get("color", "Unknown Color")
-            annotation_text = f"<span style='color:{color.lower()};'>[{icon}]</span>"
+            
+            # Get the image path for the icon and color
+            image_path = get_icon_image_path(icon, color)
+            annotation_text = f"<img src='{image_path}' alt='{icon}' style='color:{color.lower()}; padding: 5px;'><br><br>"
 
             # Add annotation at the end of the section
             updated_section = f"{section.rstrip()} {annotation_text}"
@@ -121,13 +158,13 @@ def run_llm_agents():
     # Anthropic
     model = "anthropic"
     anthropic_agent = ChatAnthropic(model="claude-3-5-sonnet-latest", temperature=0)
-    delete_rag_data()
-    initialize_rag_database()
-    annotate_and_save_sections(anthropic_agent, model)
+    # delete_rag_data()
+    # initialize_rag_database()
+    # annotate_and_save_sections(anthropic_agent, model)
 
     # Gemini
     model = "gemini"
     gemini_agent = GoogleGenerativeAI(model="gemini-1.5-pro-latest", temperature=0)
-    # delete_rag_data()
-    # initialize_rag_database()
-    # annotate_and_save_sections(gemini_agent, model)
+    delete_rag_data()
+    initialize_rag_database()
+    annotate_and_save_sections(gemini_agent, model)

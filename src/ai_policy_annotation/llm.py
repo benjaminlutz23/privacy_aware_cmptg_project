@@ -1,5 +1,6 @@
 import os
 import logging
+import json
 from langchain_openai import ChatOpenAI
 from langchain_google_genai import GoogleGenerativeAI
 from langchain_anthropic import ChatAnthropic
@@ -42,8 +43,8 @@ def annotate_policy_section(section, llm):
     result = rag_chain.invoke({"context": structured_context, "policy_section": section})
     return result
 
-def print_first_three_sections(llm):
-    """Read the first three sections from a specific HTML file and print the contents with annotations."""
+def annotate_and_save_sections(llm):
+    """Read all sections from the HTML file, annotate them with icon/color pairs, and save back to the file."""
     filepath = "./src/data/llm_annotated_policies/openai/20_theatlantic.com.html"
     
     if not os.path.exists(filepath):
@@ -54,17 +55,44 @@ def print_first_three_sections(llm):
         policy_text = file.read()
 
     sections = policy_text.split("|||")
-    first_three_sections = sections[:3]
+    updated_sections = []
 
-    for i, section in enumerate(first_three_sections):
-        print(f"Section {i+1}:\n{section}\n")
-        annotation = annotate_policy_section(section, llm)
-        print(f"Annotation: {annotation}\n")
+    for i, section in enumerate(sections):
+        try:
+            # Get annotation for this section
+            annotation_str = annotate_policy_section(section, llm)
+            
+            # Try to parse the JSON to extract icon and color
+            try:
+                annotation_json = json.loads(annotation_str)
+                icon = annotation_json.get("icon", "Unknown Icon")
+                color = annotation_json.get("color", "Unknown Color")
+                annotation_text = f"<span style='color:{color.lower()};'>[{icon}]</span>"
+            except json.JSONDecodeError:
+                logging.error(f"Failed to parse annotation JSON: {annotation_str}")
+                annotation_text = "[Annotation Error]"
+            
+            # Add annotation at the end of the section
+            updated_section = f"{section.rstrip()} {annotation_text}"
+            updated_sections.append(updated_section)
+            
+            logging.info(f"Annotated section {i+1} with {annotation_text}")
+        except Exception as e:
+            logging.error(f"Error processing section {i+1}: {e}")
+            updated_sections.append(section)  # Keep original section if annotation fails
+
+    # Join sections back together and write to file
+    updated_content = "|||".join(updated_sections)
+    
+    with open(filepath, "w") as file:
+        file.write(updated_content)
+    
+    logging.info(f"Annotations saved to {filepath}")
 
 def run_llm_agents():
     # OpenAI
     openai_agent = ChatOpenAI(model="gpt-4", temperature=0)
-    print_first_three_sections(openai_agent)
+    annotate_and_save_sections(openai_agent)
 
     # To do later:
 

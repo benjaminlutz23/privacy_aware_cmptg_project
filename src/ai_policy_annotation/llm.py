@@ -88,6 +88,19 @@ def annotate_policy_section(section, llm):
     logging.error(f"Invalid response format: {result}")
     return {"icon": "Unknown Icon", "color": "Unknown Color"}  # Default fallback
 
+def save_annotations_to_json(annotations, model):
+    """Save the annotations to the appropriate JSON file."""
+    if model == "openai":
+        json_filepath = "./src/data/llm_annotated_policies_json/openai/20_theatlantic.com.json"
+    elif model == "anthropic":
+        json_filepath = "./src/data/llm_annotated_policies_json/anthropic/20_theatlantic.com.json"
+    elif model == "gemini":
+        json_filepath = "./src/data/llm_annotated_policies_json/gemini/20_theatlantic.com.json"
+    
+    with open(json_filepath, "w") as json_file:
+        json.dump(annotations, json_file, indent=2)
+    
+    logging.info(f"Annotations saved to {json_filepath}")
 
 def annotate_and_save_sections(llm, model):
     """Read all sections from the HTML file, annotate them with icon/color pairs, and save back to the file."""
@@ -108,6 +121,7 @@ def annotate_and_save_sections(llm, model):
 
     sections = policy_text.split("|||")
     updated_sections = []
+    annotations = {}
 
     for i, section in enumerate(sections):
         try:
@@ -126,6 +140,11 @@ def annotate_and_save_sections(llm, model):
             updated_section = f"{section.rstrip()} {annotation_text}"
             updated_sections.append(updated_section)
 
+            # Add annotation to JSON structure
+            if i not in annotations:
+                annotations[i] = []
+            annotations[i].append({"icon": icon, "color": color})
+
             logging.info(f"Annotated section {i+1} with {annotation_text}")
         except Exception as e:
             logging.error(f"Error processing section {i+1}: {e}")
@@ -138,6 +157,9 @@ def annotate_and_save_sections(llm, model):
         file.write(updated_content)
     
     logging.info(f"Annotations saved to {filepath}")
+
+    # Save annotations to JSON file
+    save_annotations_to_json(annotations, model)
 
 def run_llm_agents():
     def delete_rag_data():

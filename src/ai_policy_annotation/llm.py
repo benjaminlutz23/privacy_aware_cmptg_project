@@ -1,6 +1,7 @@
 import os
 import logging
 import json
+import re
 from langchain_openai import ChatOpenAI
 from langchain_google_genai import GoogleGenerativeAI
 from langchain_anthropic import ChatAnthropic
@@ -28,8 +29,8 @@ def annotate_policy_section(section, llm):
             "**Use ONLY the provided icons and colors from the structured list below. Do NOT generate new icons or colors.**\n\n"
             "### Available Icons and Colors:\n{context}\n\n"
             "### Policy Section:\n{policy_section}\n\n"
-            "### Output Format (JSON) - **Strictly choose an icon/color from the list**:\n"
-            '{{"icon": "<chosen_icon_from_context>", "color": "<chosen_color_from_context>"}}'
+            "### Output Format - **Return ONLY the selected icon and color in this exact format (DO NOT add extra text)**:\n\n"
+            "(<chosen_icon_from_context>, <chosen_color_from_context>)"
         )
     )
 
@@ -40,12 +41,28 @@ def annotate_policy_section(section, llm):
         | StrOutputParser()
     )
 
-    result = rag_chain.invoke({"context": structured_context, "policy_section": section})
-    return result
+    result = rag_chain.invoke({"context": structured_context, "policy_section": section}).strip()
 
-def annotate_and_save_sections(llm):
+    # Parse output like: (Precise Location, Red)
+    match = re.match(r"\(([^,]+),\s*([^)]+)\)", result)
+    
+    if match:
+        icon, color = match.groups()
+        return {"icon": icon.strip(), "color": color.strip()}  # Return structured result
+
+    logging.error(f"Invalid response format: {result}")
+    return {"icon": "Unknown Icon", "color": "Unknown Color"}  # Default fallback
+
+
+def annotate_and_save_sections(llm, model):
     """Read all sections from the HTML file, annotate them with icon/color pairs, and save back to the file."""
-    filepath = "./src/data/llm_annotated_policies/openai/20_theatlantic.com.html"
+
+    if model == "openai":
+        filepath = "./src/data/llm_annotated_policies/openai/20_theatlantic.com.html"
+    elif model == "anthropic":
+        filepath = "./src/data/llm_annotated_policies/anthropic/20_theatlantic.com.html"
+    elif model == "gemini":
+        filepath = "./src/data/llm_annotated_policies/gemini/20_theatlantic.com.html"
     
     if not os.path.exists(filepath):
         logging.error(f"File not found: {filepath}")
@@ -60,22 +77,17 @@ def annotate_and_save_sections(llm):
     for i, section in enumerate(sections):
         try:
             # Get annotation for this section
-            annotation_str = annotate_policy_section(section, llm)
-            
-            # Try to parse the JSON to extract icon and color
-            try:
-                annotation_json = json.loads(annotation_str)
-                icon = annotation_json.get("icon", "Unknown Icon")
-                color = annotation_json.get("color", "Unknown Color")
-                annotation_text = f"<span style='color:{color.lower()};'>[{icon}]</span>"
-            except json.JSONDecodeError:
-                logging.error(f"Failed to parse annotation JSON: {annotation_str}")
-                annotation_text = "[Annotation Error]"
-            
+            annotation_json = annotate_policy_section(section, llm)
+
+            # Extract icon and color
+            icon = annotation_json.get("icon", "Unknown Icon")
+            color = annotation_json.get("color", "Unknown Color")
+            annotation_text = f"<span style='color:{color.lower()};'>[{icon}]</span>"
+
             # Add annotation at the end of the section
             updated_section = f"{section.rstrip()} {annotation_text}"
             updated_sections.append(updated_section)
-            
+
             logging.info(f"Annotated section {i+1} with {annotation_text}")
         except Exception as e:
             logging.error(f"Error processing section {i+1}: {e}")
@@ -91,13 +103,18 @@ def annotate_and_save_sections(llm):
 
 def run_llm_agents():
     # OpenAI
+    model = "openai"
     openai_agent = ChatOpenAI(model="gpt-4", temperature=0)
-    annotate_and_save_sections(openai_agent)
+    # annotate_and_save_sections(openai_agent, model)
 
     # To do later:
 
     # Anthropic
+    model = "anthropic"
     anthropic_agent = ChatAnthropic(model="claude-3-sonnet-20240229", temperature=0.1, max_tokens=1000)
+    # annotate_and_save_sections(anthropic_agent, model)
 
     # Gemini
+    model = "gemini"
     gemini_agent = GoogleGenerativeAI(model="gemini-1.5-pro-latest", temperature=0)
+    annotate_and_save_sections(gemini_agent, model)

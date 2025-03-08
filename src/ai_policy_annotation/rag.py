@@ -77,4 +77,3 @@ def format_context(icon_color_pairs):
         
         context_lines.append(f'- Category: {category} → Attribute: {attribute} → Value: {value} → **Icon: {icon}, Color: {color}**')
     return "\n".join(context_lines)
-

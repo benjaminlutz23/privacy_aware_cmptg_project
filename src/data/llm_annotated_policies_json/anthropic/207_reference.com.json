@@ -1,0 +1,206 @@
+{
+  "0": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "1": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "2": [
+    {
+      "icon": "Expected Use",
+      "color": "Green"
+    }
+  ],
+  "3": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "4": [
+    {
+      "icon": "Data Retention",
+      "color": "Yellow"
+    }
+  ],
+  "5": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "6": [
+    {
+      "icon": "Data Retention",
+      "color": "Yellow"
+    }
+  ],
+  "7": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "8": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "9": [
+    {
+      "icon": "Expected Collection",
+      "color": "Yellow"
+    }
+  ],
+  "10": [
+    {
+      "icon": "Expected Collection",
+      "color": "Yellow"
+    }
+  ],
+  "11": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "12": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "13": [
+    {
+      "icon": "Expected Collection",
+      "color": "Green"
+    }
+  ],
+  "14": [
+    {
+      "icon": "Data Retention",
+      "color": "Green"
+    }
+  ],
+  "15": [
+    {
+      "icon": "Expected Use",
+      "color": "Green"
+    }
+  ],
+  "16": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "17": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "18": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "19": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "20": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "21": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "22": [
+    {
+      "icon": "Expected Use",
+      "color": "Yellow"
+    }
+  ],
+  "23": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "24": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "25": [
+    {
+      "icon": "Heartbleed",
+      "color": "Yellow"
+    }
+  ],
+  "26": [
+    {
+      "icon": "Data Retention",
+      "color": "Yellow"
+    }
+  ],
+  "27": [
+    {
+      "icon": "Heartbleed",
+      "color": "Green"
+    }
+  ],
+  "28": [
+    {
+      "icon": "Heartbleed",
+      "color": "Green"
+    }
+  ],
+  "29": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "30": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "31": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "32": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "33": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ]
+}

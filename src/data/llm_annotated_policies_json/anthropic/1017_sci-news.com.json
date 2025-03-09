@@ -1,0 +1,80 @@
+{
+  "0": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "1": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "2": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "3": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "4": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "5": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "6": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "7": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "8": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "9": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "10": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "11": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "12": [
+    {
+      "icon": "Expected Use",
+      "color": "Green"
+    }
+  ]
+}

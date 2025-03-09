@@ -1,0 +1,20 @@
+{
+  "0": [
+    {
+      "icon": "Heartbleed",
+      "color": "Red"
+    }
+  ],
+  "1": [
+    {
+      "icon": "Data Retention",
+      "color": "Yellow"
+    }
+  ],
+  "2": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ]
+}

@@ -14,5 +14,5 @@ def serve_images(filename):
 
 if __name__ == '__main__':
     # copy_policies()
-    # run_llm_agents()
-    app.run(debug=True)
+    run_llm_agents()
+    # app.run(debug=True)

@@ -1,0 +1,26 @@
+{
+  "0": [
+    {
+      "icon": "Expected Use",
+      "color": "Green"
+    }
+  ],
+  "1": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "2": [
+    {
+      "icon": "Heartbleed",
+      "color": "Red"
+    }
+  ],
+  "3": [
+    {
+      "icon": "Expected Collection",
+      "color": "Yellow"
+    }
+  ]
+}

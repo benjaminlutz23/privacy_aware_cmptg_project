@@ -1,0 +1,170 @@
+{
+  "0": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "1": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "2": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "3": [
+    {
+      "icon": "Expected Collection",
+      "color": "Yellow"
+    }
+  ],
+  "4": [
+    {
+      "icon": "Expected Collection",
+      "color": "Green"
+    }
+  ],
+  "5": [
+    {
+      "icon": "Expected Use",
+      "color": "Yellow"
+    }
+  ],
+  "6": [
+    {
+      "icon": "Expected Collection",
+      "color": "Green"
+    }
+  ],
+  "7": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "8": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "9": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "10": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "11": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "12": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "13": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "14": [
+    {
+      "icon": "Heartbleed",
+      "color": "Red"
+    }
+  ],
+  "15": [
+    {
+      "icon": "Expected Collection",
+      "color": "Yellow"
+    }
+  ],
+  "17": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "18": [
+    {
+      "icon": "Expected Use",
+      "color": "Green"
+    }
+  ],
+  "19": [
+    {
+      "icon": "Expected Collection",
+      "color": "Yellow"
+    }
+  ],
+  "20": [
+    {
+      "icon": "Expected Use",
+      "color": "Yellow"
+    }
+  ],
+  "21": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "22": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "23": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "24": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "25": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "26": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "27": [
+    {
+      "icon": "Expected Collection",
+      "color": "Green"
+    }
+  ],
+  "28": [
+    {
+      "icon": "Expected Use",
+      "color": "Green"
+    }
+  ]
+}

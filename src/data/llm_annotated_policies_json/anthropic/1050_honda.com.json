@@ -1,0 +1,434 @@
+{
+  "0": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "1": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "2": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "3": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "4": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "5": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "6": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "7": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "8": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "9": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "10": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "11": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "12": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "13": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "14": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "15": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "16": [
+    {
+      "icon": "Expected Use",
+      "color": "Green"
+    }
+  ],
+  "17": [
+    {
+      "icon": "Expected Collection",
+      "color": "Yellow"
+    }
+  ],
+  "18": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "19": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "20": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "21": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "22": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "23": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "24": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "25": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "26": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "27": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "28": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "29": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "30": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "31": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "32": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "33": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "34": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "35": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "36": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "37": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "38": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "39": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "40": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "41": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "42": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "43": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "44": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "45": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "46": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "47": [
+    {
+      "icon": "Data Retention",
+      "color": "Yellow"
+    }
+  ],
+  "48": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "49": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "50": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "51": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "52": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "53": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "54": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "55": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "56": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "57": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "58": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "59": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "60": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "61": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "62": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "63": [
+    {
+      "icon": "Heartbleed",
+      "color": "Red"
+    }
+  ],
+  "64": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "65": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "66": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "67": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "68": [
+    {
+      "icon": "Expected Collection",
+      "color": "Yellow"
+    }
+  ],
+  "69": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "70": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "71": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ]
+}

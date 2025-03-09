@@ -183,17 +183,16 @@ def run_llm_agents():
     # OpenAI
     model = "openai"
     openai_agent = ChatOpenAI(model="gpt-4o-mini", temperature=0)
-    delete_rag_data()
-    initialize_rag_database()
-    annotate_and_save_sections(openai_agent, model)
-
+    # delete_rag_data()
+    # initialize_rag_database()
+    # annotate_and_save_sections(openai_agent, model)
 
     # Anthropic
     model = "anthropic"
-    anthropic_agent = ChatAnthropic(model="claude-3-5-sonnet-latest", temperature=0)
-    # delete_rag_data()
-    # initialize_rag_database()
-    # annotate_and_save_sections(anthropic_agent, model)
+    anthropic_agent = ChatAnthropic(model="claude-3-5-haiku-latest", temperature=0, max_tokens=100)
+    delete_rag_data()
+    initialize_rag_database()
+    annotate_and_save_sections(anthropic_agent, model)
 
     # Gemini
     model = "gemini"

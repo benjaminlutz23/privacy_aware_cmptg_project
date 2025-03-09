@@ -1,0 +1,92 @@
+{
+  "0": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "1": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "2": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "3": [
+    {
+      "icon": "Expected Use",
+      "color": "Red"
+    }
+  ],
+  "4": [
+    {
+      "icon": "Expected Use",
+      "color": "Red"
+    }
+  ],
+  "5": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "6": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "7": [
+    {
+      "icon": "Children Privacy",
+      "color": "Gray"
+    }
+  ],
+  "8": [
+    {
+      "icon": "Expected Use",
+      "color": "Yellow"
+    }
+  ],
+  "9": [
+    {
+      "icon": "Expected Collection",
+      "color": "Green"
+    }
+  ],
+  "10": [
+    {
+      "icon": "Expected Use",
+      "color": "Red"
+    }
+  ],
+  "11": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "12": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "13": [
+    {
+      "icon": "Heartbleed",
+      "color": "Red"
+    }
+  ],
+  "14": [
+    {
+      "icon": "Expected Use",
+      "color": "Yellow"
+    }
+  ]
+}

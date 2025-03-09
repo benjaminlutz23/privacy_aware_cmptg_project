@@ -1,0 +1,218 @@
+{
+  "0": [
+    {
+      "icon": "Data Retention",
+      "color": "Yellow"
+    }
+  ],
+  "1": [
+    {
+      "icon": "Expected Use",
+      "color": "Yellow"
+    }
+  ],
+  "2": [
+    {
+      "icon": "Expected Use",
+      "color": "Red"
+    }
+  ],
+  "3": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "4": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "5": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "6": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "7": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "8": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "9": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "10": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "11": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "12": [
+    {
+      "icon": "Expected Collection",
+      "color": "Red"
+    }
+  ],
+  "13": [
+    {
+      "icon": "Expected Collection",
+      "color": "Green"
+    }
+  ],
+  "14": [
+    {
+      "icon": "Expected Collection",
+      "color": "Yellow"
+    }
+  ],
+  "15": [
+    {
+      "icon": "Expected Collection",
+      "color": "Yellow"
+    }
+  ],
+  "16": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "17": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "18": [
+    {
+      "icon": "Expected Collection",
+      "color": "Green"
+    }
+  ],
+  "19": [
+    {
+      "icon": "Expected Collection",
+      "color": "Yellow"
+    }
+  ],
+  "20": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "21": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "22": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "23": [
+    {
+      "icon": "Heartbleed",
+      "color": "Green"
+    }
+  ],
+  "24": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "25": [
+    {
+      "icon": "Data Retention",
+      "color": "Green"
+    }
+  ],
+  "26": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "27": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "28": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "29": [
+    {
+      "icon": "Children Privacy",
+      "color": "Gray"
+    }
+  ],
+  "30": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "31": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "32": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "33": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "34": [
+    {
+      "icon": "Expected Use",
+      "color": "Green"
+    }
+  ],
+  "35": [
+    {
+      "icon": "Expected Collection",
+      "color": "Yellow"
+    }
+  ]
+}

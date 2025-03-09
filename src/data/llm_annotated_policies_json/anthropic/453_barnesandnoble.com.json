@@ -1,0 +1,626 @@
+{
+  "0": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "1": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "2": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "3": [
+    {
+      "icon": "Expected Collection",
+      "color": "Yellow"
+    }
+  ],
+  "4": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "5": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "6": [
+    {
+      "icon": "Expected Collection",
+      "color": "Yellow"
+    }
+  ],
+  "7": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "8": [
+    {
+      "icon": "Heartbleed",
+      "color": "Red"
+    }
+  ],
+  "9": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "10": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "11": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "12": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "13": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "14": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "15": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "16": [
+    {
+      "icon": "Expected Use",
+      "color": "Yellow"
+    }
+  ],
+  "17": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "18": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "19": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "20": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "21": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "22": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "23": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "24": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "25": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "26": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "27": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "28": [
+    {
+      "icon": "Expected Use",
+      "color": "Yellow"
+    }
+  ],
+  "29": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "30": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "31": [
+    {
+      "icon": "Expected Collection",
+      "color": "Green"
+    }
+  ],
+  "32": [
+    {
+      "icon": "Expected Use",
+      "color": "Yellow"
+    }
+  ],
+  "33": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "34": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "35": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "36": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "37": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "38": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "39": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "40": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "41": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "42": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "43": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "44": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "45": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "46": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "47": [
+    {
+      "icon": "Expected Use",
+      "color": "Yellow"
+    }
+  ],
+  "48": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "49": [
+    {
+      "icon": "Expected Use",
+      "color": "Yellow"
+    }
+  ],
+  "50": [
+    {
+      "icon": "Expected Collection",
+      "color": "Green"
+    }
+  ],
+  "51": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "52": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "53": [
+    {
+      "icon": "Expected Use",
+      "color": "Yellow"
+    }
+  ],
+  "54": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "55": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "56": [
+    {
+      "icon": "Expected Use",
+      "color": "Yellow"
+    }
+  ],
+  "57": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "58": [
+    {
+      "icon": "Expected Use",
+      "color": "Yellow"
+    }
+  ],
+  "59": [
+    {
+      "icon": "Expected Collection",
+      "color": "Yellow"
+    }
+  ],
+  "60": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "61": [
+    {
+      "icon": "Expected Use",
+      "color": "Green"
+    }
+  ],
+  "62": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "63": [
+    {
+      "icon": "Expected Collection",
+      "color": "Yellow"
+    }
+  ],
+  "64": [
+    {
+      "icon": "Expected Use",
+      "color": "Yellow"
+    }
+  ],
+  "65": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "66": [
+    {
+      "icon": "Expected Collection",
+      "color": "Red"
+    }
+  ],
+  "67": [
+    {
+      "icon": "Heartbleed",
+      "color": "Red"
+    }
+  ],
+  "68": [
+    {
+      "icon": "Heartbleed",
+      "color": "Red"
+    }
+  ],
+  "69": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "70": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "71": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "72": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "73": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "74": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "75": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "76": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "77": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "78": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "79": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "80": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "81": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "82": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "83": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "84": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "85": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "86": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "87": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "88": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "89": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "90": [
+    {
+      "icon": "Data Retention",
+      "color": "Red"
+    }
+  ],
+  "91": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "92": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "93": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "94": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "95": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "96": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "97": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "98": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "99": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "100": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "101": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "102": [
+    {
+      "icon": "Expected Use",
+      "color": "Green"
+    }
+  ],
+  "103": [
+    {
+      "icon": "Children Privacy",
+      "color": "Gray"
+    }
+  ]
+}

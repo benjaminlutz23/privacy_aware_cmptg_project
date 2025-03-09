@@ -1,0 +1,80 @@
+{
+  "0": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "1": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "2": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "3": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "4": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "5": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "6": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "7": [
+    {
+      "icon": "Expected Collection",
+      "color": "Green"
+    }
+  ],
+  "8": [
+    {
+      "icon": "Do Not Track",
+      "color": "Red"
+    }
+  ],
+  "9": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "10": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "11": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ],
+  "12": [
+    {
+      "icon": "Data Retention",
+      "color": "Yellow"
+    }
+  ]
+}

@@ -56,7 +56,7 @@
   "9": [
     {
       "icon": "Expected Collection",
-      "color": "Red"
+      "color": "Green"
     }
   ],
   "10": [
@@ -74,7 +74,7 @@
   "12": [
     {
       "icon": "Do Not Track",
-      "color": "Green"
+      "color": "White"
     }
   ],
   "13": [
@@ -104,7 +104,7 @@
   "17": [
     {
       "icon": "Expected Collection",
-      "color": "Yellow"
+      "color": "Red"
     }
   ],
   "18": [
@@ -140,7 +140,7 @@
   "23": [
     {
       "icon": "Do Not Track",
-      "color": "White"
+      "color": "Red"
     }
   ],
   "24": [

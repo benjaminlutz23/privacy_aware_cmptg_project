@@ -4,24 +4,72 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Privacy-Aware Computing Project</title>
+    <style>
+        .dropdown-container {
+            position: relative;
+        }
+        .dropdown-list {
+            position: absolute;
+            z-index: 1000;
+            background: white;
+            border: 1px solid #ccc;
+            max-height: 150px;
+            overflow-y: auto;
+            display: none;
+        }
+        .dropdown-list div {
+            padding: 8px;
+            cursor: pointer;
+        }
+        .dropdown-list div:hover {
+            background-color: #f1f1f1;
+        }
+    </style>
 </head>
 <body>
     <h1>Privacy-Aware Computing Project</h1>
     <div id="results"></div>
     <form id="view-policy-form">
         <label for="policy-source">Select Policy Source:</label>
-        <select id="policy-source" name="policy-source">
+        <select id="policy-source" name="policy-source" onchange="loadPolicies()">
+            <option value="">Select LLM Model</option>
             <option value="gemini">Gemini</option>
             <option value="openai">OpenAI</option>
             <option value="anthropic">Anthropic</option>
         </select>
+        <label for="policy-name">Select Policy:</label>
+        <select id="policy-name" name="policy-name">
+            <option value="">Select Policy</option>
+        </select>
         <button type="button" onclick="viewPolicy()">View Policy</button>
     </form>
     <script>
+        function loadPolicies() {
+            const source = document.getElementById('policy-source').value;
+            const policyNameSelect = document.getElementById('policy-name');
+            policyNameSelect.innerHTML = '<option value="">Select Policy</option>';
+
+            if (source) {
+                fetch(`/get_policies/${source}`)
+                    .then(response => response.json())
+                    .then(data => {
+                        data.policies.forEach(policy => {
+                            const option = document.createElement('option');
+                            option.value = policy;
+                            option.textContent = policy;
+                            policyNameSelect.appendChild(option);
+                        });
+                    });
+            }
+        }
+
         function viewPolicy() {
             const source = document.getElementById('policy-source').value;
-            const url = `/view_policy/${source}`;
-            window.location.href = url;
+            const policy = document.getElementById('policy-name').value;
+            if (source && policy) {
+                const url = `/view_policy/${source}/${policy}`;
+                window.location.href = url;
+            }
         }
     </script>
 </body>

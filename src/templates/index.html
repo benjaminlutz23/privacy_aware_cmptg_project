@@ -7,16 +7,22 @@
 </head>
 <body>
     <h1>Privacy-Aware Computing Project</h1>
-    <form id="policy-form">
-        <textarea name="policy" placeholder="Paste privacy policy here..."></textarea>
-        <button type="submit">Process</button>
-    </form>
     <div id="results"></div>
+    <form id="view-policy-form">
+        <label for="policy-source">Select Policy Source:</label>
+        <select id="policy-source" name="policy-source">
+            <option value="gemini">Gemini</option>
+            <option value="openai">OpenAI</option>
+            <option value="anthropic">Anthropic</option>
+        </select>
+        <button type="button" onclick="viewPolicy()">View Policy</button>
+    </form>
     <script>
-        document.getElementById('policy-form').addEventListener('submit', function(event) {
-            event.preventDefault();
-            // Placeholder for form submission handling
-        });
+        function viewPolicy() {
+            const source = document.getElementById('policy-source').value;
+            const url = `/view_policy/${source}`;
+            window.location.href = url;
+        }
     </script>
 </body>
 </html>

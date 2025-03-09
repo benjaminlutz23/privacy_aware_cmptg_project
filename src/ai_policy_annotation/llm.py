@@ -183,9 +183,9 @@ def run_llm_agents():
     # OpenAI
     model = "openai"
     openai_agent = ChatOpenAI(model="gpt-4o-mini", temperature=0)
-    # delete_rag_data()
-    # initialize_rag_database()
-    # annotate_and_save_sections(openai_agent, model)
+    delete_rag_data()
+    initialize_rag_database()
+    annotate_and_save_sections(openai_agent, model)
 
 
     # Anthropic
@@ -198,6 +198,6 @@ def run_llm_agents():
     # Gemini
     model = "gemini"
     gemini_agent = GoogleGenerativeAI(model="gemini-1.5-pro-latest", temperature=0)
-    delete_rag_data()
-    initialize_rag_database()
-    annotate_and_save_sections(gemini_agent, model)
+    # delete_rag_data()
+    # initialize_rag_database()
+    # annotate_and_save_sections(gemini_agent, model)

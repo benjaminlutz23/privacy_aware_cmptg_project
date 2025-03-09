@@ -8,6 +8,6 @@ app = Flask(__name__)
 app.register_blueprint(main_bp)
 
 if __name__ == '__main__':
-    copy_policies()
+    # copy_policies()
     run_llm_agents()
     # app.run(debug=True)

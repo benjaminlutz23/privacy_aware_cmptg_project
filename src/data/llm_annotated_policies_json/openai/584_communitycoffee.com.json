@@ -1,0 +1,20 @@
+{
+  "0": [
+    {
+      "icon": "Precise Location",
+      "color": "Red"
+    }
+  ],
+  "1": [
+    {
+      "icon": "Heartbleed",
+      "color": "Green"
+    }
+  ],
+  "2": [
+    {
+      "icon": "Do Not Track",
+      "color": "White"
+    }
+  ]
+}

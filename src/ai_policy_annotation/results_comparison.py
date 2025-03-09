@@ -5,7 +5,10 @@ import os
 # Load JSON data
 def load_json(filepath):
     with open(filepath, 'r') as file:
-        return json.load(file)
+        content = file.read().strip()
+        if not content:
+            return None
+        return json.loads(content)
 
 # Compare JSON data
 def compare_policies(gemini, benchmark):
@@ -39,12 +42,15 @@ def plot_comparison(total_match, total_no_match, title):
 def main():
     gemini_dir = './src/data/llm_annotated_policies_json/gemini'
     openai_dir = './src/data/llm_annotated_policies_json/openai'
+    anthropic_dir = './src/data/llm_annotated_policies_json/anthropic'
     benchmark_dir = './src/data/benchmark/benchmarked_policies'
 
     total_match_gemini = 0
     total_no_match_gemini = 0
     total_match_openai = 0
     total_no_match_openai = 0
+    total_match_anthropic = 0
+    total_no_match_anthropic = 0
 
     for filename in os.listdir(gemini_dir):
         gemini_path = os.path.join(gemini_dir, filename)
@@ -70,6 +76,20 @@ def main():
             total_match_openai += match
             total_no_match_openai += no_match
 
+    for filename in os.listdir(anthropic_dir):
+        anthropic_path = os.path.join(anthropic_dir, filename)
+        benchmark_path = os.path.join(benchmark_dir, filename)
+
+        if os.path.exists(benchmark_path):
+            anthropic = load_json(anthropic_path)
+            if anthropic is None:
+                continue
+            benchmark = load_json(benchmark_path)
+
+            match, no_match = compare_policies(anthropic, benchmark)
+            total_match_anthropic += match
+            total_no_match_anthropic += no_match
+
     print("Gemini Comparison:")
     print_summary(total_match_gemini, total_no_match_gemini)
     plot_comparison(total_match_gemini, total_no_match_gemini, 'Gemini Overall Comparison')
@@ -77,6 +97,10 @@ def main():
     print("OpenAI Comparison:")
     print_summary(total_match_openai, total_no_match_openai)
     plot_comparison(total_match_openai, total_no_match_openai, 'OpenAI Overall Comparison')
+
+    print("Anthropic Comparison:")
+    print_summary(total_match_anthropic, total_no_match_anthropic)
+    plot_comparison(total_match_anthropic, total_no_match_anthropic, 'Anthropic Overall Comparison')
 
 if __name__ == "__main__":
     main()

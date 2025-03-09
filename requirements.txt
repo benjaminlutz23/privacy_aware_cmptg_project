@@ -4,3 +4,10 @@ langchain_chroma
 langchain_openai 
 langchain_google_genai 
 langchain_anthropic
+shutil
+logging
+json
+re
+matplotlib
+csv
+xml
